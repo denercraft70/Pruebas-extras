@@ -1,0 +1,6 @@
+[22Feb2025 00:00:19.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to -7124.500000, 140.500000, -11955.500000]
+[22Feb2025 00:01:26.956] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[22Feb2025 00:02:01.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to -7044.500000, 119.500000, -12071.500000]
+[22Feb2025 00:03:01.551] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[22Feb2025 00:03:01.563] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[22Feb2025 00:03:01.638] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
