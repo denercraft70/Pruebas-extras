@@ -250,6 +250,14 @@
             "discoveredTimestamp": 1740181893666,
             "caughtTimestamp": 1740181893666
           }
+        },
+        "vaporeon": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740182870137,
+            "caughtTimestamp": 1740182870137
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -264,7 +272,7 @@
   "advancementData": {
     "totalCaptureCount": 12,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 1,
+    "totalEvolvedCount": 2,
     "totalBattleVictoryCount": 28,
     "totalPvPBattleVictoryCount": 1,
     "totalPvWBattleVictoryCount": 20,

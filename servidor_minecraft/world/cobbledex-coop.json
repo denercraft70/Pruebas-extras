@@ -748,6 +748,14 @@
         "discoveredTimestamp": 1740165220579,
         "caughtTimestamp": 1740165220579
       }
+    },
+    "vaporeon": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740182870140,
+        "caughtTimestamp": 1740182870140
+      }
     }
   }
 }

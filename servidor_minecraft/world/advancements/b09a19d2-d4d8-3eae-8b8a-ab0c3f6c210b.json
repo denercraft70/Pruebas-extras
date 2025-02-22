@@ -6209,81 +6209,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/willow_boat": {
-    "criteria": {
-      "in_water": "2025-02-21 18:17:47 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/umbran_boat": {
-    "criteria": {
-      "in_water": "2025-02-21 18:17:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-02-21 17:47:19 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/dead_boat": {
-    "criteria": {
-      "in_water": "2025-02-21 18:17:47 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/magic_boat": {
-    "criteria": {
-      "in_water": "2025-02-21 18:17:47 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-02-21 17:47:08 +0000"
-    },
-    "done": true
-  },
-  "idas:ancient_mines": {
-    "criteria": {
-      "in_ancient_mines": "2025-02-21 18:41:14 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/get_ham": {
     "criteria": {
       "ham": "2025-02-21 17:42:52 +0000"
-    },
-    "done": true
-  },
-  "integrated_villages:tavern_village": {
-    "criteria": {
-      "in_tavern_village": "2025-02-21 18:54:34 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "muskeg": "2025-02-21 18:07:15 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/pine_boat": {
-    "criteria": {
-      "in_water": "2025-02-21 18:17:47 +0000"
-    },
-    "done": true
-  },
-  "rctmod:trainers/kill_any": {
-    "criteria": {
-      "kill_trainer": "2025-02-21 17:49:50 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/smooth_rock": {
-    "criteria": {
-      "has_stone": "2025-02-21 18:09:35 +0000"
     },
     "done": true
   },
@@ -6293,9 +6221,21 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/ghostly_pickaxe": {
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
     "criteria": {
-      "ghostly_pickaxe": "2025-02-21 18:41:55 +0000"
+      "has_azure_bluet": "2025-02-21 17:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-02-21 17:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-21 17:47:19 +0000"
     },
     "done": true
   },
@@ -6305,15 +6245,22 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/fir_boat": {
+  "rctmod:trainers/kill_any": {
     "criteria": {
-      "in_water": "2025-02-21 18:17:47 +0000"
+      "kill_trainer": "2025-02-21 17:49:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "muskeg": "2025-02-21 18:07:15 +0000"
     },
     "done": true
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "muskeg": "2025-02-21 18:07:15 +0000",
+      "fungal_jungle": "2025-02-22 00:37:19 +0000",
       "floodplain": "2025-02-21 19:11:46 +0000",
       "highland": "2025-02-21 18:38:29 +0000",
       "jacaranda_glade": "2025-02-21 18:53:42 +0000",
@@ -6334,6 +6281,48 @@
     },
     "done": false
   },
+  "cobblemon:recipes/held/smooth_rock": {
+    "criteria": {
+      "has_stone": "2025-02-21 18:09:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-02-21 18:17:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2025-02-21 18:17:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-02-21 18:17:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-02-21 18:17:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-02-21 18:17:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-02-21 18:17:47 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2025-02-21 18:17:47 +0000"
@@ -6343,36 +6332,6 @@
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-02-21 18:17:47 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_frostmaw": {
-    "criteria": {
-      "frostmaw": "2025-02-21 18:44:42 +0000"
-    },
-    "done": true
-  },
-  "friendsandfoes:adventure/kill_iceologer": {
-    "criteria": {
-      "killed_iceologer": "2025-02-21 18:46:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-02-21 17:47:08 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/banana": {
-    "criteria": {
-      "banana": "2025-02-21 19:05:37 +0000"
-    },
-    "done": true
-  },
-  "friendsandfoes:adventure/kill_illusioner": {
-    "criteria": {
-      "killed_illusioner": "2025-02-21 18:27:43 +0000"
     },
     "done": true
   },
@@ -6409,6 +6368,48 @@
   "rctmod:trainers/defeat_rival_terry": {
     "criteria": {
       "first_defeat": "2025-02-21 18:21:46 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-02-21 18:27:43 +0000"
+    },
+    "done": true
+  },
+  "idas:ancient_mines": {
+    "criteria": {
+      "in_ancient_mines": "2025-02-21 18:41:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ghostly_pickaxe": {
+    "criteria": {
+      "ghostly_pickaxe": "2025-02-21 18:41:55 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-02-21 18:44:42 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_iceologer": {
+    "criteria": {
+      "killed_iceologer": "2025-02-21 18:46:47 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:tavern_village": {
+    "criteria": {
+      "in_tavern_village": "2025-02-21 18:54:34 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-02-21 19:05:37 +0000"
     },
     "done": true
   },
