@@ -499,6 +499,13 @@
             "discoveredTimestamp": 1740181893660,
             "caughtTimestamp": 1740181893660
           }
+        },
+        "murkrow": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740185649331
+          }
         }
       },
       "name": "cobbledex_discovery"

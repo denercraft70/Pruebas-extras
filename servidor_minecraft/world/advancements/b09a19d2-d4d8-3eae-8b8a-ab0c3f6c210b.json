@@ -4840,6 +4840,7 @@
     "criteria": {
       "obtain_paralyze_heal": "2025-02-20 05:19:32 +0000",
       "obtain_super_potion": "2025-02-20 22:19:06 +0000",
+      "obtain_hyper_potion": "2025-02-22 00:52:16 +0000",
       "obtain_potion": "2025-02-20 22:11:06 +0000"
     },
     "done": false
@@ -6271,10 +6272,12 @@
       "overgrown_greens": "2025-02-21 18:29:36 +0000",
       "aspen_glade": "2025-02-21 18:17:15 +0000",
       "rocky_rainforest": "2025-02-21 19:09:12 +0000",
+      "volcanic_plains": "2025-02-22 00:47:49 +0000",
       "lavender_field": "2025-02-21 18:53:41 +0000",
       "fir_clearing": "2025-02-21 18:17:56 +0000",
       "grassland": "2025-02-21 18:29:34 +0000",
       "tundra": "2025-02-21 18:07:57 +0000",
+      "glowing_grotto": "2025-02-22 00:43:42 +0000",
       "rainforest": "2025-02-21 19:01:46 +0000",
       "crag": "2025-02-21 18:37:27 +0000",
       "ominous_woods": "2025-02-21 18:26:58 +0000"
@@ -6410,6 +6413,12 @@
   "alexsmobs:alexsmobs/banana": {
     "criteria": {
       "banana": "2025-02-21 19:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_integrated_stronghold": "2025-02-22 00:43:46 +0000"
     },
     "done": true
   },

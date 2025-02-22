@@ -756,6 +756,21 @@
         "discoveredTimestamp": 1740182870140,
         "caughtTimestamp": 1740182870140
       }
+    },
+    "oddish": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740184985594,
+        "caughtTimestamp": 1740184985594
+      }
+    },
+    "murkrow": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740185649332
+      }
     }
   }
 }
