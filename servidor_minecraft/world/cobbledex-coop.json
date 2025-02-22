@@ -1144,6 +1144,43 @@
         "discoveredTimestamp": 1740260823763,
         "caughtTimestamp": 1740260823763
       }
+    },
+    "honchkrow": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740261092496
+      }
+    },
+    "golbat": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740261139847
+      }
+    },
+    "cyndaquil": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740261256852,
+        "caughtTimestamp": 1740261256852
+      }
+    },
+    "wigglytuff": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740261428244
+      }
+    },
+    "greninja": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740261448809,
+        "caughtTimestamp": 1740261448809
+      }
     }
   }
 }

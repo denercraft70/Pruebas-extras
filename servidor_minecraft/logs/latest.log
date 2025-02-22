@@ -3530,3 +3530,142 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22Feb2025 21:50:00.633] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/22736, l='ServerLevel[world]', x=903.50, y=59.00, z=-1088.50]
 [22Feb2025 21:50:13.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to 1856.500000, 97.500000, -1201.500000]
 [22Feb2025 21:50:14.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to 1044.500000, 239.500000, -950.500000]
+[22Feb2025 21:52:25.033] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/27730, l='ServerLevel[world]', x=924.50, y=56.00, z=-1020.50]
+[22Feb2025 21:52:27.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to 1023.500000, 88.500000, -819.500000]
+[22Feb2025 21:54:46.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> ZZ
+[22Feb2025 21:54:46.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:46.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:46.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:46.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:47.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:47.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:47.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:47.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:48.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:48.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:48.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:48.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:48.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:49.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:49.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:49.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:49.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:50.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:50.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:50.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:50.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:51.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:51.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:51.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:51.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:52.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:52.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 21:54:52.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:52.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:52.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:53.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:53.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:53.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:53.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:53.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:53.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:54.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:54.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:54.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:54.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:54.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:55.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:55.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:56.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:56.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:56.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:56.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:57.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:57.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:57.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:58.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:58.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:58.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:58.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:59.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:54:59.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> ZZ
+[22Feb2025 21:54:59.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:00.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:00.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:00.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> ZZ
+[22Feb2025 21:55:01.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:01.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:01.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:01.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:02.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:02.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:02.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> ZZ
+[22Feb2025 21:55:03.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> ZZ
+[22Feb2025 21:55:03.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> ZZ
+[22Feb2025 21:55:04.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:04.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> ZZ
+[22Feb2025 21:55:04.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:04.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:05.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:05.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:06.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:06.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:06.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:07.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:07.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> ZZ
+[22Feb2025 21:55:08.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:08.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:08.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:08.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:08.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:09.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:09.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:09.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:09.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:09.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:09.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:10.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:10.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:10.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:27.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:27.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:27.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:28.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:28.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:28.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:28.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:29.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:29.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:29.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:29.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:29.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:30.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:30.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:55:30.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> Z
+[22Feb2025 21:56:51.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[22Feb2025 21:58:26.914] [Server thread/ERROR] [com.scouter.cobbleoutbreaks.data.OutbreaksJsonDataManager/]: Tag for TagKey[minecraft:worldgen/biome / cobblemon:is_abyss] does not have any biomes!
+[22Feb2025 21:58:26.915] [Server thread/ERROR] [com.scouter.cobbleoutbreaks.data.OutbreaksJsonDataManager/]: Outbreak for cobblemonoutbreaks:haunter_outbreak might not have any biomes assigned!
+[22Feb2025 21:58:26.915] [Server thread/INFO] [com.scouter.cobbleoutbreaks.data.OutbreaksJsonDataManager/]: Registered 110 biomes with pokemon!
+[22Feb2025 21:59:04.095] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35072, l='ServerLevel[world]', x=1766.98, y=102.00, z=-2862.99] died, message: 'Villager was slain by Zombie'
+[22Feb2025 21:59:32.199] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: PokemonEntity['Buneary'/37094, l='ServerLevel[world]', x=863.50, y=82.00, z=-24.50]
+[22Feb2025 21:59:44.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emissssss was kicked for floating too long!
+[22Feb2025 21:59:44.404] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emissssss lost connection: Flying is not enabled on this server
+[22Feb2025 21:59:44.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emissssss left the game
+[22Feb2025 21:59:51.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft was slain by Spider
+[22Feb2025 21:59:58.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: denercraft lost connection: Disconnected
+[22Feb2025 21:59:58.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft left the game
+[22Feb2025 21:59:59.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PavoLoco lost connection: Disconnected
+[22Feb2025 21:59:59.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco left the game
+[22Feb2025 22:00:05.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[22Feb2025 22:00:05.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[22Feb2025 22:00:12.437] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@194cd93b[id=<null>,name=PavoLoco,properties={},legacy=false] (/127.226.223.37:43617) lost connection: Disconnected
+[22Feb2025 22:00:29.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PavoLoco[/127.226.223.37:40107] logged in with entity id 37331 at (837.0878193599669, 103.0, -238.73291713687266)
+[22Feb2025 22:00:29.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco joined the game
+[22Feb2025 22:00:32.641] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@54b8de0f[id=<null>,name=emissssss,properties={},legacy=false] (/127.102.213.154:50251) lost connection: Disconnected
+[22Feb2025 22:00:35.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco was slain by Zombie
+[22Feb2025 22:00:39.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PavoLoco lost connection: Disconnected
+[22Feb2025 22:00:39.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco left the game
+[22Feb2025 22:00:52.892] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: denercraft[/127.158.216.55:41113] logged in with entity id 37819 at (673.2806015533903, 89.12160004615784, -188.71454062973322)
+[22Feb2025 22:00:52.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft joined the game
+[22Feb2025 22:01:01.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emissssss[/127.102.213.154:60519] logged in with entity id 37839 at (1754.4191152817414, 83.16610926093821, -3072.6405177402244)
+[22Feb2025 22:01:01.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emissssss joined the game

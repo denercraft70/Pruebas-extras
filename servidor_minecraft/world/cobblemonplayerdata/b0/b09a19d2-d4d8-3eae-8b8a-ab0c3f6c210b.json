@@ -391,6 +391,14 @@
             "discoveredTimestamp": 1740260222613,
             "caughtTimestamp": 1740260222613
           }
+        },
+        "cyndaquil": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740261256851,
+            "caughtTimestamp": 1740261256851
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -405,7 +413,7 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 33,
+    "totalCaptureCount": 34,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 18,
     "totalBattleVictoryCount": 53,
@@ -428,7 +436,8 @@
       "poison": 8,
       "rock": 4,
       "grass": 7,
-      "ground": 1
+      "ground": 1,
+      "fire": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:bunnelby": 1,

@@ -533,6 +533,41 @@
             "status": "SEEN",
             "discoveredTimestamp": 1740260562899
           }
+        },
+        "honchkrow": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740261092495
+          }
+        },
+        "breloom": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740261136741
+          }
+        },
+        "golbat": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740261139847
+          }
+        },
+        "wigglytuff": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740261428243
+          }
+        },
+        "haunter": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740261553004
+          }
         }
       },
       "name": "cobbledex_discovery"

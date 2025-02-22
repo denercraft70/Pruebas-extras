@@ -615,6 +615,14 @@
             "discoveredTimestamp": 1740260823762,
             "caughtTimestamp": 1740260823762
           }
+        },
+        "greninja": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740261448808,
+            "caughtTimestamp": 1740261448808
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -631,7 +639,7 @@
   "advancementData": {
     "totalCaptureCount": 32,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 12,
+    "totalEvolvedCount": 13,
     "totalBattleVictoryCount": 68,
     "totalPvPBattleVictoryCount": 3,
     "totalPvWBattleVictoryCount": 57,

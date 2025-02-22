@@ -92,6 +92,7 @@
       "minecraft:deep_dark": "2025-02-21 03:30:51 +0000",
       "minecraft:meadow": "2025-02-19 04:15:04 +0000",
       "minecraft:windswept_gravelly_hills": "2025-02-22 02:09:19 +0000",
+      "minecraft:savanna": "2025-02-22 21:49:11 +0000",
       "minecraft:plains": "2025-02-19 02:37:31 +0000"
     },
     "done": false
@@ -1670,6 +1671,7 @@
       "apple": "2025-02-19 04:20:47 +0000",
       "potato": "2025-02-20 03:04:02 +0000",
       "cooked_cod": "2025-02-20 02:15:35 +0000",
+      "supplementaries:candy": "2025-02-22 21:59:33 +0000",
       "bread": "2025-02-19 04:41:04 +0000",
       "golden_apple": "2025-02-20 02:59:35 +0000",
       "golden_carrot": "2025-02-19 03:53:42 +0000",
@@ -7222,15 +7224,15 @@
     },
     "done": true
   },
-  "cobblemon:obtain_revival_herb": {
-    "criteria": {
-      "check_inv": "2025-02-22 21:36:24 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
       "killed_by": "2025-02-22 21:36:01 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_revival_herb": {
+    "criteria": {
+      "check_inv": "2025-02-22 21:36:24 +0000"
     },
     "done": true
   },
