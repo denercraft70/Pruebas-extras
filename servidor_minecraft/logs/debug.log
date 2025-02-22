@@ -15204,3 +15204,543 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22Feb2025 00:53:57.895] [Worker-Main-2/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [ars_nouveau] are present.
 [22Feb2025 00:54:09.110] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of idas:redhorn_guild/redhorn_guild
 [22Feb2025 00:54:09.332] [Server thread/DEBUG] [Cobbledex/]: Saving 101 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[22Feb2025 00:54:15.415] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3308ms or 66 ticks behind
+[22Feb2025 00:54:15.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emissssss moved too quickly! -5.586711568399551,-4.283637284790828,-7.294907120953212
+[22Feb2025 00:54:28.030] [Worker-Main-1/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [iceandfire] are present.
+[22Feb2025 00:54:28.045] [Worker-Main-1/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [ars_nouveau] are present.
+[22Feb2025 00:54:28.531] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[22Feb2025 00:54:28.531] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 00:54:28.534] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[22Feb2025 00:54:33.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: denercraft moved too quickly! -10.109741627398762,0.4280416118598964,-1.1750881178204509
+[22Feb2025 00:54:35.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:35.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:35.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:36.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:36.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:36.559] [pool-7-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / integrated_villages:quark/minka_village], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_orange], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / idas:farmhouse], ResourceKey[minecraft:worldgen/structure / integrated_villages:mediterranean_village]] from pos BlockPos{x=-8725, y=87, z=-13333}
+[22Feb2025 00:54:36.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:36.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:37.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:37.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:37.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:37.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:37.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:38.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:38.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:38.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:38.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:38.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:38.887] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/streets/crossroad_03 is being run through DFU (hash 09967fdda4360d59433cef636dec7ed55b4e9934819995df94f47abeb2afb7ba), this will cause launch time delays
+[22Feb2025 00:54:39.084] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_small_house_1 is being run through DFU (hash 4d4efb327c548017654b37ae1561a7e800148957dddc35ff0b472136cf13e43a), this will cause launch time delays
+[22Feb2025 00:54:39.089] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_small_house_2 is being run through DFU (hash 6289244cc9ededf92bfba1a81c99611f7a8be02588e9e0adc5db925b353beee9), this will cause launch time delays
+[22Feb2025 00:54:39.090] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_small_house_3 is being run through DFU (hash a89481b982c25a6295fc2c15798a418d127cdc3153f3a4843f5f699185933815), this will cause launch time delays
+[22Feb2025 00:54:39.092] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_small_house_4 is being run through DFU (hash 52eb3d50230fb3b62e686844be4f536a5f03c5e2eec4b7a5897f493c4ce5798f), this will cause launch time delays
+[22Feb2025 00:54:39.095] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_small_house_5 is being run through DFU (hash 851d9365fdd784c6efc921ede3ab51c7efaa825614273be7ee959fc829428dc6), this will cause launch time delays
+[22Feb2025 00:54:39.098] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_small_house_6 is being run through DFU (hash c93dccc0ec2be9659492af4acb815c6037e0f893665ac3ae55209e386ea15582), this will cause launch time delays
+[22Feb2025 00:54:39.100] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_small_house_7 is being run through DFU (hash 2fd6511a6253857307006fe302823d8b520a4ed02a7563a1a323a4ccfd29ff66), this will cause launch time delays
+[22Feb2025 00:54:39.102] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_small_house_8 is being run through DFU (hash 2669b36bd20d4199d918c7539052522fbdac6693cde5167a28c5e2ade0972060), this will cause launch time delays
+[22Feb2025 00:54:39.105] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_medium_house_1 is being run through DFU (hash acc927bf17809ee5b2a5a373604508392eb787ee0fb6bb60f17c0ddb595362b9), this will cause launch time delays
+[22Feb2025 00:54:39.110] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_medium_house_2 is being run through DFU (hash e08680771a3a8bad6fa1173f11112b5f9c5a7c306a5b59e7406d761ee3586827), this will cause launch time delays
+[22Feb2025 00:54:39.112] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_large_house_1 is being run through DFU (hash c7c98ac01c78d07abf413c1004082c6122fc6fe98898515789c44b5766356a70), this will cause launch time delays
+[22Feb2025 00:54:39.116] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_butcher_1 is being run through DFU (hash b04f33f5b48a37ca5daa3d3fd97e4159a3939b458b5739baecca35a21d3c3f56), this will cause launch time delays
+[22Feb2025 00:54:39.124] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_butcher_2 is being run through DFU (hash caf29ecf6e7bddbc0266d938734e318c226983653cfcf464fde622abd20b3c3b), this will cause launch time delays
+[22Feb2025 00:54:39.129] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_toolsmith_1 is being run through DFU (hash 47da2c8765394cd2963fae1a22ca906759e59f66bfbeba1b25b90572681d1bee), this will cause launch time delays
+[22Feb2025 00:54:39.133] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_fletcher_1 is being run through DFU (hash fc2eced2e84113afd048eb54e81ce934260c4d9583b2239746a535326c284ad1), this will cause launch time delays
+[22Feb2025 00:54:39.136] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_shepherd_1 is being run through DFU (hash e810cddf8aecdc321b06759f7af3b079f4224206329ae8dd2263e619ae93261a), this will cause launch time delays
+[22Feb2025 00:54:39.139] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_armorer_1 is being run through DFU (hash 2381706c59d82851f7ddb3f0ec09db9ee5212f3e5f5e325969bc6e3eaacdf859), this will cause launch time delays
+[22Feb2025 00:54:39.144] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_fisher_1 is being run through DFU (hash 3a600195fd07daab3b1b6c1fc55f6a5d2da0224d7bee8a5ca7a46641f09c1024), this will cause launch time delays
+[22Feb2025 00:54:39.148] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_leatherworker_1 is being run through DFU (hash 549a1ebcfba1722f667c23a2ba1daea86e2e6fbe1a5a98d8ce3a3db67f2926f0), this will cause launch time delays
+[22Feb2025 00:54:39.150] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_cartographer_1 is being run through DFU (hash 3034ae665c90ccd5f0a06411660b304877caba36a6575b97da09c1d3a93f757a), this will cause launch time delays
+[22Feb2025 00:54:39.153] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_library_1 is being run through DFU (hash 356a12c502e20ab9ced01545850d485c32eb34d2f58924879ad38f7325557813), this will cause launch time delays
+[22Feb2025 00:54:39.156] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_mason_1 is being run through DFU (hash 95e81b3563d201466ab0d611edd04b1ced9d7dab9f490a6370fddd562b16e93a), this will cause launch time delays
+[22Feb2025 00:54:39.158] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_weaponsmith_1 is being run through DFU (hash 7a4746f95af3c6b67d2a58fbdf4f6f7ef12a9f21f88130227cc0fe326599e422), this will cause launch time delays
+[22Feb2025 00:54:39.190] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_temple_1 is being run through DFU (hash 54980582dc5b0054b5cd14c061496148ea736c09b0d52ad9af64ca9f7c51917a), this will cause launch time delays
+[22Feb2025 00:54:39.194] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_stable_1 is being run through DFU (hash f21e1f8d15ed0184d88a02e7e4ed14da3fae63c7ee75449277b37d21dbe6ef54), this will cause launch time delays
+[22Feb2025 00:54:39.197] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_large_farm_1 is being run through DFU (hash 3f2585dcf0e35cfeea7d55c32ab995011dbc3f9869f149a4af19ef004512b802), this will cause launch time delays
+[22Feb2025 00:54:39.201] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_small_farm_1 is being run through DFU (hash fc496ab6f105d75e3b42d584536506aaf7f1a3f41a0c21b966d5c86e065448b6), this will cause launch time delays
+[22Feb2025 00:54:39.205] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_animal_pen_1 is being run through DFU (hash 32f803e79952361afeb080be0799d498546f8aae186b50d89528b38ef7515b28), this will cause launch time delays
+[22Feb2025 00:54:39.207] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_animal_pen_2 is being run through DFU (hash 78ad7244774fb6adb15e0568a208356abfd7cc270b5c8069876a8abbb2677cf0), this will cause launch time delays
+[22Feb2025 00:54:39.208] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_animal_pen_3 is being run through DFU (hash f8894c308ff167f61b39f4fd41ccd59bdc833909845e748f16869c7db862ddf9), this will cause launch time delays
+[22Feb2025 00:54:39.209] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/terminators/terminator_01 is being run through DFU (hash 0eee05857db4f717f7a26ba28a926393e023f862650e6aef04fa0c7628f6fe76), this will cause launch time delays
+[22Feb2025 00:54:39.212] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/terminators/terminator_02 is being run through DFU (hash 1ebea8069c3e0c5494782021f4f3c91ea8ce4bd76cb628469d547d42bb842d09), this will cause launch time delays
+[22Feb2025 00:54:39.214] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/terminators/terminator_03 is being run through DFU (hash 5dad30ef2ef72ecf253152d8db002f61c61e78b4f09d6c9df7ccf499d949cc95), this will cause launch time delays
+[22Feb2025 00:54:39.216] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/terminators/terminator_04 is being run through DFU (hash 06f14031f4a296195f69bf1b2c5781a42217ffc2879ca7d2cc0c7ab6ddf75ad7), this will cause launch time delays
+[22Feb2025 00:54:39.229] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/streets/straight_05 is being run through DFU (hash fe8ff354bec50eb7f36ab73c623937c9fcfa5951c499c2156863784e7513da8d), this will cause launch time delays
+[22Feb2025 00:54:39.248] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/streets/straight_01 is being run through DFU (hash c4a8f8acee71ef1f41d24aea131631fa795b68fc5de1854e2194b4446bc13f77), this will cause launch time delays
+[22Feb2025 00:54:39.268] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/streets/crossroad_01 is being run through DFU (hash ae5e138e84b60e4da2b1cec395f38495c158e5893d4518c1d6833ca56cfef9c5), this will cause launch time delays
+[22Feb2025 00:54:39.294] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/streets/corner_01 is being run through DFU (hash 9dd4379906d1a18cdf2f66b0e38bc2c5623039623050694602aa67060224e014), this will cause launch time delays
+[22Feb2025 00:54:39.303] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/streets/straight_04 is being run through DFU (hash 91f8efeaa6bc59bc9053a8624f345640bc76cfc9a85afef6304582e9cb0e5558), this will cause launch time delays
+[22Feb2025 00:54:39.307] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/streets/straight_02 is being run through DFU (hash 3587891c66e7021d4b2ef56cd6e9bea53746449778bf9143404a2942b6d5dd3a), this will cause launch time delays
+[22Feb2025 00:54:39.312] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/streets/crossroad_05 is being run through DFU (hash 9d84ba6d15e2977f93034ad9bfeb479f0caca7cbc83e445742ff032f73b12cf7), this will cause launch time delays
+[22Feb2025 00:54:39.325] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/streets/corner_02 is being run through DFU (hash 478284d9f3ca1fb07fac315e451e7a92519700db77c89580942e56895e6af075), this will cause launch time delays
+[22Feb2025 00:54:39.338] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/streets/straight_06 is being run through DFU (hash cf41c6b08dfdb05754d6946a7b5cea1d132018007a5d85573f78ae33293455e0), this will cause launch time delays
+[22Feb2025 00:54:39.362] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/streets/straight_03 is being run through DFU (hash 246ae1b2216d976a08ee190d91e2d4d24754cca9b7045e5c92da71eeaa8bd726), this will cause launch time delays
+[22Feb2025 00:54:39.370] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/streets/crossroad_02 is being run through DFU (hash bb32f695025a32f2c69354c8734c7ca8e148fec379b6770c512fd060df55f978), this will cause launch time delays
+[22Feb2025 00:54:39.378] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/streets/turn_01 is being run through DFU (hash 800cc1037c03c78c807ab396dec394aa8cee029c26211bdcd1335b681776a0b2), this will cause launch time delays
+[22Feb2025 00:54:39.381] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/streets/crossroad_06 is being run through DFU (hash 35b7e37c50e19ded9cbfdb5514e8389ae585179183c58390a226b659e8a1b76c), this will cause launch time delays
+[22Feb2025 00:54:39.387] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/streets/corner_03 is being run through DFU (hash ac2fec8a9420d9b72a97f0d8d4154e9d0541de968fd3ee25efbadcd2a2615c6f), this will cause launch time delays
+[22Feb2025 00:54:39.389] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/streets/crossroad_04 is being run through DFU (hash c00454e1346f1bd1a4348196794e8accb2cf86ffd0a66b705daf748346e49a55), this will cause launch time delays
+[22Feb2025 00:54:42.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4057ms or 81 ticks behind
+[22Feb2025 00:54:42.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: denercraft moved too quickly! -9.232455743027458,1.5736217181620304,4.234072974885294
+[22Feb2025 00:54:42.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:42.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:42.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:42.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:42.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:42.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:42.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:42.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:42.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:42.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:42.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:42.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:42.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:42.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:42.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:42.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:42.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:42.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:42.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:42.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:42.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:42.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:42.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:43.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:43.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:43.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:43.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:43.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:44.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:44.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:44.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:44.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:44.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:44.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:45.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:45.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:45.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:45.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:45.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:46.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:46.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:46.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:46.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:46.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:46.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:47.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:47.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:47.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:47.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:47.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:47.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:48.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:48.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:48.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:48.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:48.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:49.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:49.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:49.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:49.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:49.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:49.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:50.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:50.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:50.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:50.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:50.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:52.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[22Feb2025 00:54:53.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[22Feb2025 00:54:53.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[22Feb2025 00:54:53.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:54:53.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[22Feb2025 00:54:54.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[22Feb2025 00:54:54.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[22Feb2025 00:54:57.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[22Feb2025 00:54:57.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[22Feb2025 00:54:57.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[22Feb2025 00:54:57.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[22Feb2025 00:54:57.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> z
+[22Feb2025 00:55:02.608] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[22Feb2025 00:55:02.609] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 00:55:02.610] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[22Feb2025 00:55:05.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:55:05.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> zz
+[22Feb2025 00:55:05.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:55:06.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:55:06.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:55:06.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:55:06.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:55:06.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:55:07.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:55:07.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:55:07.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:55:07.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:55:07.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:55:08.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:55:08.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:55:08.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z
+[22Feb2025 00:55:10.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> z}
+[22Feb2025 00:55:14.184] [Worker-Main-2/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [iceandfire] are present.
+[22Feb2025 00:55:14.197] [Worker-Main-2/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [ars_nouveau] are present.
+[22Feb2025 00:55:31.257] [Worker-Main-1/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-8780, y=107, z=-13464}
+[22Feb2025 00:55:32.682] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[22Feb2025 00:55:32.690] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 00:55:32.693] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[22Feb2025 00:55:32.940] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 00:55:32.954] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 00:55:32.954] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 00:55:32.954] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 00:55:32.954] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[22Feb2025 00:55:53.287] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ring1
+[22Feb2025 00:56:02.727] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[22Feb2025 00:56:02.739] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 00:56:02.740] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[22Feb2025 00:56:05.137] [Server thread/DEBUG] [Cobbledex/]: Saving 101 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[22Feb2025 00:56:17.914] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin5
+[22Feb2025 00:56:20.388] [Server thread/DEBUG] [Cobbledex/]: Saving 101 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[22Feb2025 00:56:32.759] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[22Feb2025 00:56:32.759] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 00:56:32.760] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[22Feb2025 00:57:02.808] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[22Feb2025 00:57:02.808] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 00:57:02.809] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[22Feb2025 00:57:09.950] [Worker-Main-1/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [ars_nouveau] are present.
+[22Feb2025 00:57:11.093] [Worker-Main-1/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [iceandfire] are present.
+[22Feb2025 00:57:32.858] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[22Feb2025 00:57:32.858] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 00:57:32.859] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[22Feb2025 00:58:00.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Feb2025 00:58:00.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Feb2025 00:58:02.914] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[22Feb2025 00:58:02.914] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 00:58:02.915] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[22Feb2025 00:58:08.514] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[22Feb2025 00:58:22.609] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/frog_statue2
+[22Feb2025 00:58:32.959] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[22Feb2025 00:58:32.959] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 00:58:32.960] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[22Feb2025 00:58:38.340] [Worker-Main-2/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [ars_nouveau] are present.
+[22Feb2025 00:58:38.340] [Worker-Main-2/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [iceandfire] are present.
+[22Feb2025 00:59:03.008] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[22Feb2025 00:59:03.009] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 00:59:03.009] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[22Feb2025 00:59:33.057] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[22Feb2025 00:59:33.058] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 00:59:33.059] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[22Feb2025 00:59:46.422] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id iceandfire:troll
+[22Feb2025 01:00:00.096] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at com.cobblemon.mod.common.api.item.PokemonSelectingItem$DefaultImpls.applyToBattlePokemon(PokemonSelectingItem.java:105) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23241!/:?]
+	at com.cobblemon.mod.common.item.interactive.PotionItem.applyToBattlePokemon(PotionItem.java:67) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23241!/:?]
+	at com.cobblemon.mod.common.api.item.PokemonSelectingItem$interactGeneralBattle$2.invoke(PokemonSelectingItem.java:148) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23241!/:?]
+	at com.cobblemon.mod.common.api.item.PokemonSelectingItem$interactGeneralBattle$2.invoke(PokemonSelectingItem.java:144) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23241!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks$createBattleSelect$3.invoke(PartySelectCallbacks.java:74) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23241!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks$createBattleSelect$3.invoke(PartySelectCallbacks.java:69) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23241!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks.handleCallback(PartySelectCallbacks.java:110) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23241!/:?]
+	at com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:19) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23241!/:?]
+	at com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:17) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23241!/:?]
+	at com.cobblemon.mod.common.api.net.ServerNetworkPacketHandler$DefaultImpls.handleOnNettyThread$lambda$0(ServerNetworkPacketHandler.java:19) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23241!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[22Feb2025 01:00:03.108] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[22Feb2025 01:00:03.108] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:00:03.109] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[22Feb2025 01:00:10.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to -6649.500000, 251.500000, -13413.500000]
+[22Feb2025 01:00:12.563] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-414, -846], pos: BlockPos{x=-6610, y=-54, z=-13536}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:00:12.563] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-414, -846], pos: BlockPos{x=-6610, y=-53, z=-13536}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:00:12.563] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-414, -846], pos: BlockPos{x=-6610, y=-52, z=-13536}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:00:12.563] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-414, -846], pos: BlockPos{x=-6609, y=-51, z=-13536}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:00:12.563] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-414, -846], pos: BlockPos{x=-6609, y=-50, z=-13536}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:00:12.564] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-414, -846], pos: BlockPos{x=-6609, y=-49, z=-13536}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:00:12.564] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-414, -846], pos: BlockPos{x=-6610, y=-54, z=-13535}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:00:12.564] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-414, -846], pos: BlockPos{x=-6610, y=-53, z=-13535}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:00:12.564] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-414, -846], pos: BlockPos{x=-6610, y=-52, z=-13535}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:00:12.564] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-414, -846], pos: BlockPos{x=-6609, y=-51, z=-13535}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:00:12.564] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-414, -846], pos: BlockPos{x=-6609, y=-50, z=-13535}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:00:12.564] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-414, -846], pos: BlockPos{x=-6609, y=-49, z=-13535}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:00:12.564] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-414, -846], pos: BlockPos{x=-6610, y=-54, z=-13534}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:00:12.565] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-414, -846], pos: BlockPos{x=-6610, y=-53, z=-13534}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:00:12.565] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-414, -846], pos: BlockPos{x=-6610, y=-52, z=-13534}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:00:12.565] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-414, -846], pos: BlockPos{x=-6609, y=-51, z=-13534}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:00:12.565] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-414, -846], pos: BlockPos{x=-6609, y=-50, z=-13534}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:00:12.565] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-414, -846], pos: BlockPos{x=-6609, y=-49, z=-13534}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:00:12.565] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-414, -846], pos: BlockPos{x=-6609, y=-54, z=-13536}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:00:12.565] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-414, -846], pos: BlockPos{x=-6609, y=-53, z=-13536}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:00:12.565] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-414, -846], pos: BlockPos{x=-6609, y=-52, z=-13536}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:00:12.565] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-414, -846], pos: BlockPos{x=-6609, y=-54, z=-13535}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:00:12.566] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-414, -846], pos: BlockPos{x=-6609, y=-53, z=-13535}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:00:12.566] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-414, -846], pos: BlockPos{x=-6609, y=-52, z=-13535}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:00:12.566] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-414, -846], pos: BlockPos{x=-6609, y=-54, z=-13534}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:00:12.566] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-414, -846], pos: BlockPos{x=-6609, y=-53, z=-13534}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:00:12.566] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-414, -846], pos: BlockPos{x=-6609, y=-52, z=-13534}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:00:19.916] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of idas:animal_den/polar_bear_den
+[22Feb2025 01:00:33.157] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[22Feb2025 01:00:33.158] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:00:33.158] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[22Feb2025 01:00:57.403] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at com.cobblemon.mod.common.item.interactive.ReviveItem$use$2.invoke(ReviveItem.java:78) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23241!/:?]
+	at com.cobblemon.mod.common.item.interactive.ReviveItem$use$2.invoke(ReviveItem.java:67) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23241!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks$createBattleSelect$3.invoke(PartySelectCallbacks.java:74) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23241!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks$createBattleSelect$3.invoke(PartySelectCallbacks.java:69) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23241!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks.handleCallback(PartySelectCallbacks.java:110) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23241!/:?]
+	at com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:19) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23241!/:?]
+	at com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:17) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23241!/:?]
+	at com.cobblemon.mod.common.api.net.ServerNetworkPacketHandler$DefaultImpls.handleOnNettyThread$lambda$0(ServerNetworkPacketHandler.java:19) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23241!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[22Feb2025 01:01:03.209] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[22Feb2025 01:01:03.209] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:01:03.210] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[22Feb2025 01:01:33.259] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[22Feb2025 01:01:33.259] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:01:33.260] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[22Feb2025 01:01:33.832] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at com.cobblemon.mod.common.api.item.PokemonSelectingItem$DefaultImpls.applyToBattlePokemon(PokemonSelectingItem.java:105) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23241!/:?]
+	at com.cobblemon.mod.common.item.interactive.PotionItem.applyToBattlePokemon(PotionItem.java:67) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23241!/:?]
+	at com.cobblemon.mod.common.api.item.PokemonSelectingItem$interactGeneralBattle$2.invoke(PokemonSelectingItem.java:148) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23241!/:?]
+	at com.cobblemon.mod.common.api.item.PokemonSelectingItem$interactGeneralBattle$2.invoke(PokemonSelectingItem.java:144) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23241!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks$createBattleSelect$3.invoke(PartySelectCallbacks.java:74) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23241!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks$createBattleSelect$3.invoke(PartySelectCallbacks.java:69) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23241!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks.handleCallback(PartySelectCallbacks.java:110) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23241!/:?]
+	at com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:19) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23241!/:?]
+	at com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:17) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23241!/:?]
+	at com.cobblemon.mod.common.api.net.ServerNetworkPacketHandler$DefaultImpls.handleOnNettyThread$lambda$0(ServerNetworkPacketHandler.java:19) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23241!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23337!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[22Feb2025 01:02:03.308] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[22Feb2025 01:02:03.309] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:02:03.309] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[22Feb2025 01:02:31.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to -6422.500000, 290.500000, -13462.500000]
+[22Feb2025 01:02:33.358] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[22Feb2025 01:02:33.358] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:02:33.359] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[22Feb2025 01:02:36.009] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-403, -849], pos: BlockPos{x=-6434, y=-5, z=-13582}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:02:36.010] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-403, -849], pos: BlockPos{x=-6433, y=-6, z=-13582}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:02:36.010] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-403, -849], pos: BlockPos{x=-6433, y=-7, z=-13582}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:02:36.010] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-403, -849], pos: BlockPos{x=-6434, y=-5, z=-13581}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:02:36.010] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-403, -849], pos: BlockPos{x=-6433, y=-6, z=-13581}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:02:36.011] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-403, -849], pos: BlockPos{x=-6433, y=-7, z=-13581}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:02:36.011] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-403, -849], pos: BlockPos{x=-6434, y=-5, z=-13580}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:02:36.011] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-403, -849], pos: BlockPos{x=-6433, y=-6, z=-13580}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:02:36.011] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-403, -849], pos: BlockPos{x=-6433, y=-7, z=-13580}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:02:36.011] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-403, -849], pos: BlockPos{x=-6433, y=-5, z=-13582}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:02:36.012] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-403, -849], pos: BlockPos{x=-6433, y=-4, z=-13581}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:02:36.012] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-403, -849], pos: BlockPos{x=-6433, y=-5, z=-13581}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:02:36.012] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-403, -849], pos: BlockPos{x=-6433, y=-4, z=-13580}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:02:36.012] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-403, -849], pos: BlockPos{x=-6433, y=-5, z=-13580}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/frostfire/columns]
+[22Feb2025 01:02:38.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emissssss has reached the goal [Cascade Badge]
+[22Feb2025 01:02:38.983] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/trainerWins.json
+[22Feb2025 01:02:39.734] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/pillager
+[22Feb2025 01:02:39.734] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/vindicator
+[22Feb2025 01:02:39.735] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/outpost_captain
+[22Feb2025 01:02:39.735] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/captive_snow
+[22Feb2025 01:03:00.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Feb2025 01:03:00.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Feb2025 01:03:03.408] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[22Feb2025 01:03:03.408] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:03:03.409] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[22Feb2025 01:03:14.003] [Worker-Main-3/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-700099529,901007023,-1541442850,-1472612451],type:"minecraft:entity",y_offset:0.36f}}]
+[22Feb2025 01:03:14.004] [Worker-Main-3/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1645884378,-491958437,-1306717876,-997773793],type:"minecraft:entity",y_offset:0.36f}}]
+[22Feb2025 01:03:22.754] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:lumber_camp/lumber_camp_birch
+[22Feb2025 01:03:33.459] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[22Feb2025 01:03:33.459] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:03:33.461] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[22Feb2025 01:03:35.296] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool1
+[22Feb2025 01:03:43.310] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[22Feb2025 01:03:45.772] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/streets/crossroad_03
+[22Feb2025 01:03:45.780] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/streets/crossroad_02
+[22Feb2025 01:03:45.789] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/streets/corner_03
+[22Feb2025 01:03:45.799] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/streets/crossroad_04
+[22Feb2025 01:03:45.801] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/houses/swedish_armorer_and_mason_1
+[22Feb2025 01:03:45.803] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/houses/swedish_butcher_1
+[22Feb2025 01:03:45.807] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/houses/swedish_farmer_and_fisher_1
+[22Feb2025 01:03:45.810] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/houses/swedish_toolsmith_and_weaponsmith_1
+[22Feb2025 01:03:45.812] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/houses/swedish_small_house_3
+[22Feb2025 01:03:45.813] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/houses/swedish_small_house_5
+[22Feb2025 01:03:45.826] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/streets/straight_05
+[22Feb2025 01:03:45.827] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/streets/crossroad_01
+[22Feb2025 01:03:45.840] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/streets/straight_01
+[22Feb2025 01:03:45.852] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/streets/corner_01
+[22Feb2025 01:03:45.852] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/streets/straight_03
+[22Feb2025 01:03:45.853] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/streets/corner_02
+[22Feb2025 01:03:45.853] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/streets/straight_04
+[22Feb2025 01:03:45.854] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/streets/straight_02
+[22Feb2025 01:03:45.854] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/terminators/terminator_01
+[22Feb2025 01:03:51.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to -6801.500000, 109.500000, -8448.500000]
+[22Feb2025 01:03:54.767] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[22Feb2025 01:03:54.779] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_4
+[22Feb2025 01:04:03.507] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[22Feb2025 01:04:03.507] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:04:03.508] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[22Feb2025 01:04:06.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:nexus/nexus_red
+[22Feb2025 01:04:22.901] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_3
+[22Feb2025 01:04:22.901] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_0
+[22Feb2025 01:04:22.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_2
+[22Feb2025 01:04:22.903] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_1
+[22Feb2025 01:04:22.903] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_iron_golem_normal_0
+[22Feb2025 01:04:22.904] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_2
+[22Feb2025 01:04:22.904] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_3
+[22Feb2025 01:04:22.905] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_villager_normal_0
+[22Feb2025 01:04:22.905] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_1
+[22Feb2025 01:04:22.906] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_0
+[22Feb2025 01:04:33.558] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[22Feb2025 01:04:33.558] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:04:33.559] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[22Feb2025 01:05:03.608] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[22Feb2025 01:05:03.608] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:05:03.610] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[22Feb2025 01:05:03.878] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:farmhouse/farmhouse_path
+[22Feb2025 01:05:33.657] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[22Feb2025 01:05:33.657] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:05:33.658] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[22Feb2025 01:05:48.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to 4325.500000, 86.500000, 3495.500000]
+[22Feb2025 01:06:03.712] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[22Feb2025 01:06:03.712] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:06:03.712] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Feb2025 01:06:26.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has completed the challenge [The Magicians]
+[22Feb2025 01:06:26.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [I was here, i lived, i..]
+[22Feb2025 01:06:33.758] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[22Feb2025 01:06:33.758] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:06:33.758] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Feb2025 01:06:57.561] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/connector5
+[22Feb2025 01:06:57.562] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/connector1
+[22Feb2025 01:07:03.815] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[22Feb2025 01:07:03.816] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:07:03.816] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Feb2025 01:07:33.880] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[22Feb2025 01:07:33.880] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:07:33.881] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Feb2025 01:08:00.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Feb2025 01:08:00.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Feb2025 01:08:03.938] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[22Feb2025 01:08:03.938] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:08:03.938] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Feb2025 01:08:34.003] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[22Feb2025 01:08:34.003] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:08:34.004] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[22Feb2025 01:09:04.020] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[22Feb2025 01:09:04.020] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:09:04.020] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Feb2025 01:09:11.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco was shot by Illusioner
+[22Feb2025 01:09:16.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to -6578.500000, 209.500000, -13839.500000]
+[22Feb2025 01:09:32.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco was shot by Illusioner
+[22Feb2025 01:09:34.058] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[22Feb2025 01:09:34.058] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:09:34.058] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Feb2025 01:09:36.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to -6565.500000, 209.500000, -13831.500000]
+[22Feb2025 01:09:42.749] [Server thread/DEBUG] [Cobbledex/]: Saving 102 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[22Feb2025 01:09:50.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PavoLoco moved too quickly! -3.5542361292300484,-1.452451478076,-9.377108941611368
+[22Feb2025 01:10:04.103] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_3
+[22Feb2025 01:10:04.374] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[22Feb2025 01:10:04.374] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:10:04.376] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[22Feb2025 01:10:31.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco was slain by Skeleton
+[22Feb2025 01:10:34.170] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[22Feb2025 01:10:34.170] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:10:34.171] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Feb2025 01:10:37.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to -6631.500000, 203.500000, -13955.500000]
+[22Feb2025 01:11:04.207] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[22Feb2025 01:11:04.207] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:11:04.207] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Feb2025 01:11:12.400] [Server thread/DEBUG] [Cobbledex/]: Saving 103 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[22Feb2025 01:11:34.371] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[22Feb2025 01:11:34.371] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:11:34.373] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[22Feb2025 01:11:52.913] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin3
+[22Feb2025 01:11:53.089] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[22Feb2025 01:12:04.340] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[22Feb2025 01:12:04.340] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:12:04.341] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Feb2025 01:12:11.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft was blown up by Creeper
+[22Feb2025 01:12:16.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to 4077.500000, 87.500000, 3751.500000]
+[22Feb2025 01:12:28.318] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 01:12:32.685] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 01:12:34.363] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[22Feb2025 01:12:34.363] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:12:34.363] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Feb2025 01:12:41.815] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 01:12:41.836] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 01:12:41.836] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 01:12:42.245] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 01:12:42.247] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 01:12:42.434] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 01:12:43.073] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 01:12:43.074] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 01:12:43.075] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 01:12:43.075] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 01:12:43.122] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 01:12:43.122] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id irons_spellbooks:priest
+[22Feb2025 01:12:56.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[22Feb2025 01:13:00.729] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 01:13:00.731] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 01:13:00.731] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 01:13:00.751] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 01:13:00.772] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 01:13:00.772] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 01:13:01.182] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 01:13:01.299] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 01:13:01.300] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 01:13:02.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Feb2025 01:13:02.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Feb2025 01:13:07.301] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[22Feb2025 01:13:07.301] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:13:07.301] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Feb2025 01:13:20.668] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 01:13:21.038] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 01:13:21.040] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 01:13:21.054] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 01:13:21.054] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 01:13:21.054] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 01:13:37.152] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[22Feb2025 01:13:37.152] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:13:37.152] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Feb2025 01:14:00.830] [Worker-Main-1/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=3604, y=73, z=3970}
+[22Feb2025 01:14:03.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [Airship Village]
+[22Feb2025 01:14:03.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[22Feb2025 01:14:06.525] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[22Feb2025 01:14:06.531] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[22Feb2025 01:14:06.540] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[22Feb2025 01:14:09.647] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[22Feb2025 01:14:09.647] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Feb2025 01:14:09.647] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Feb2025 01:14:12.309] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[22Feb2025 01:14:23.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4644ms or 92 ticks behind
+[22Feb2025 01:14:32.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft fell from a high place
+[22Feb2025 01:14:38.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to 3782.500000, 121.500000, 3894.500000]
+[22Feb2025 01:14:41.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind

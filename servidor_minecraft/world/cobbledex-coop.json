@@ -771,6 +771,22 @@
         "status": "SEEN",
         "discoveredTimestamp": 1740185649332
       }
+    },
+    "foongus": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740186582749,
+        "caughtTimestamp": 1740186582749
+      }
+    },
+    "shedinja": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740186672400,
+        "caughtTimestamp": 1740186672400
+      }
     }
   }
 }

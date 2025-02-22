@@ -506,6 +506,20 @@
             "status": "SEEN",
             "discoveredTimestamp": 1740185649331
           }
+        },
+        "golduck": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740185765136
+          }
+        },
+        "psyduck": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740185780387
+          }
         }
       },
       "name": "cobbledex_discovery"

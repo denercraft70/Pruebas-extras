@@ -279,6 +279,22 @@
             "discoveredTimestamp": 1740184985591,
             "caughtTimestamp": 1740184985591
           }
+        },
+        "foongus": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740186582748,
+            "caughtTimestamp": 1740186582748
+          }
+        },
+        "shedinja": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740186672400,
+            "caughtTimestamp": 1740186672400
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -292,7 +308,7 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 24,
+    "totalCaptureCount": 26,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 11,
     "totalBattleVictoryCount": 45,
@@ -308,13 +324,13 @@
       "flying": 1,
       "fairy": 2,
       "steel": 3,
-      "bug": 2,
+      "bug": 3,
       "fighting": 2,
-      "ghost": 5,
+      "ghost": 6,
       "electric": 3,
-      "poison": 5,
+      "poison": 6,
       "rock": 3,
-      "grass": 2
+      "grass": 3
     },
     "totalDefeatedCounts": {
       "cobblemon:bunnelby": 1,

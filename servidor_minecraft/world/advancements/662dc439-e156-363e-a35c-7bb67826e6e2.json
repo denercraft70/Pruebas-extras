@@ -62,6 +62,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-02-20 22:32:09 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-02-22 00:53:34 +0000",
       "minecraft:taiga": "2025-02-19 02:42:26 +0000",
       "minecraft:cherry_grove": "2025-02-19 03:40:15 +0000",
       "minecraft:birch_forest": "2025-02-19 01:27:14 +0000",
@@ -73,6 +74,7 @@
       "minecraft:river": "2025-02-21 03:52:20 +0000",
       "minecraft:snowy_plains": "2025-02-20 05:33:57 +0000",
       "minecraft:dripstone_caves": "2025-02-19 02:21:40 +0000",
+      "minecraft:snowy_taiga": "2025-02-22 00:59:49 +0000",
       "minecraft:grove": "2025-02-21 03:47:28 +0000",
       "minecraft:cold_ocean": "2025-02-20 05:29:14 +0000",
       "minecraft:forest": "2025-02-19 03:39:15 +0000",
@@ -1655,6 +1657,7 @@
       "beef": "2025-02-21 03:10:18 +0000",
       "porkchop": "2025-02-19 01:57:21 +0000",
       "mutton": "2025-02-19 02:45:52 +0000",
+      "cookie": "2025-02-22 01:01:32 +0000",
       "salmon": "2025-02-21 00:01:33 +0000",
       "cooked_chicken": "2025-02-20 03:28:00 +0000",
       "sweet_berries": "2025-02-20 03:21:37 +0000",
@@ -3377,6 +3380,7 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
+      "luxury_ball": "2025-02-22 01:05:19 +0000",
       "nest_ball": "2025-02-21 00:10:47 +0000",
       "quick_ball": "2025-02-20 03:36:47 +0000",
       "great_ball": "2025-02-20 21:53:39 +0000",
@@ -3935,9 +3939,10 @@
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
       "killed_evoker": "2025-02-19 04:01:06 +0000",
-      "killed_illusioner": "2025-02-21 03:49:39 +0000"
+      "killed_illusioner": "2025-02-21 03:49:39 +0000",
+      "killed_iceologer": "2025-02-22 01:06:26 +0000"
     },
-    "done": false
+    "done": true
   },
   "alexsmobs:alexsmobs/banana": {
     "criteria": {
@@ -6902,6 +6907,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2025-02-22 01:03:39 +0000",
       "snowblossom_grove": "2025-02-21 23:54:38 +0000",
       "scrubland": "2025-02-21 23:58:26 +0000",
       "mystic_grove": "2025-02-22 00:45:16 +0000",
@@ -6913,14 +6919,51 @@
       "redwood_forest": "2025-02-22 00:44:15 +0000",
       "volcanic_plains": "2025-02-21 23:56:34 +0000",
       "grassland": "2025-02-22 00:49:35 +0000",
+      "tundra": "2025-02-22 01:08:56 +0000",
       "gravel_beach": "2025-02-22 00:50:07 +0000",
       "rainforest": "2025-02-21 23:57:13 +0000"
     },
     "done": false
   },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-02-22 00:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-02-22 00:59:16 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/misc/magenta_dye_from_mulberry": {
+    "criteria": {
+      "has_mulberry": "2025-02-22 00:56:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2025-02-22 00:57:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-02-22 00:43:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-02-22 00:57:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-02-22 00:57:12 +0000"
     },
     "done": true
   },
@@ -6930,9 +6973,93 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/misc/cyan_dye_from_pickerelweed": {
+    "criteria": {
+      "has_pickerelweed": "2025-02-22 00:57:30 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_greenwood_pub": {
     "criteria": {
       "location0": "2025-02-22 00:45:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-02-22 00:57:12 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/food/boiled_pickerelweed_from_smoking": {
+    "criteria": {
+      "has_pickerelweed": "2025-02-22 00:57:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-02-22 00:57:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-02-22 00:57:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-02-22 00:57:12 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_iceologer": {
+    "criteria": {
+      "killed_iceologer": "2025-02-22 01:06:26 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/food/boiled_pickerelweed_from_campfire_cooking": {
+    "criteria": {
+      "has_pickerelweed": "2025-02-22 00:57:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-02-22 00:57:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-02-22 00:57:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-02-22 00:57:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-02-22 00:57:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_boat": {
+    "criteria": {
+      "in_water": "2025-02-22 00:57:12 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/food/boiled_pickerelweed": {
+    "criteria": {
+      "has_pickerelweed": "2025-02-22 00:57:30 +0000"
     },
     "done": true
   },

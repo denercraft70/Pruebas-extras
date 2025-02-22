@@ -6297,5 +6297,11 @@
     },
     "done": true
   },
+  "rctmod:trainers/defeat_leader_misty": {
+    "criteria": {
+      "first_defeat": "2025-02-22 01:02:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
