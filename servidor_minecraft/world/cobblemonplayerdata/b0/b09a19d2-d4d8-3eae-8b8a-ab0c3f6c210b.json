@@ -295,6 +295,94 @@
             "discoveredTimestamp": 1740186672400,
             "caughtTimestamp": 1740186672400
           }
+        },
+        "tandemaus": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740190195168,
+            "caughtTimestamp": 1740190195168
+          }
+        },
+        "bonsly": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740190415387,
+            "caughtTimestamp": 1740190415387
+          }
+        },
+        "deerling": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740190795676,
+            "caughtTimestamp": 1740190795676
+          }
+        },
+        "petilil": {
+          "hisuibias": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740190837786,
+            "caughtTimestamp": 1740190837786
+          }
+        },
+        "gloom": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740193818803,
+            "caughtTimestamp": 1740193818803
+          }
+        },
+        "maushold": {
+          "four": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740193914074,
+            "caughtTimestamp": 1740193914074
+          }
+        },
+        "vileplume": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740194230645,
+            "caughtTimestamp": 1740194230645
+          }
+        },
+        "bellossom": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740194233561,
+            "caughtTimestamp": 1740194233561
+          }
+        },
+        "machop": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740197932253,
+            "caughtTimestamp": 1740197932253
+          }
+        },
+        "growlithe": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740199234505,
+            "caughtTimestamp": 1740199234505
+          }
+        },
+        "darumaka": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740200700386,
+            "caughtTimestamp": 1740200700386
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -302,25 +390,26 @@
     "Cobbledex_RewardHistory": {
       "received": [
         "15",
-        "30"
+        "30",
+        "45"
       ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 26,
+    "totalCaptureCount": 32,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 11,
-    "totalBattleVictoryCount": 45,
+    "totalEvolvedCount": 18,
+    "totalBattleVictoryCount": 53,
     "totalPvPBattleVictoryCount": 1,
     "totalPvWBattleVictoryCount": 35,
-    "totalPvNBattleVictoryCount": 9,
+    "totalPvNBattleVictoryCount": 17,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 12,
+    "totalTradedCount": 17,
     "totalTypeCaptureCounts": {
       "water": 2,
       "ice": 1,
-      "normal": 3,
+      "normal": 5,
       "flying": 1,
       "fairy": 2,
       "steel": 3,
@@ -328,9 +417,9 @@
       "fighting": 2,
       "ghost": 6,
       "electric": 3,
-      "poison": 6,
-      "rock": 3,
-      "grass": 3
+      "poison": 8,
+      "rock": 4,
+      "grass": 7
     },
     "totalDefeatedCounts": {
       "cobblemon:bunnelby": 1,

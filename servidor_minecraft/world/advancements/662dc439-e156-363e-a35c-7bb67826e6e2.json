@@ -80,6 +80,7 @@
       "minecraft:forest": "2025-02-19 03:39:15 +0000",
       "minecraft:lush_caves": "2025-02-21 00:54:02 +0000",
       "minecraft:deep_cold_ocean": "2025-02-20 00:02:13 +0000",
+      "minecraft:frozen_ocean": "2025-02-22 01:31:59 +0000",
       "minecraft:ocean": "2025-02-19 01:58:49 +0000",
       "minecraft:snowy_beach": "2025-02-20 05:29:54 +0000",
       "minecraft:warm_ocean": "2025-02-19 01:55:13 +0000",
@@ -88,6 +89,7 @@
       "minecraft:old_growth_birch_forest": "2025-02-19 01:26:49 +0000",
       "minecraft:deep_dark": "2025-02-21 03:30:51 +0000",
       "minecraft:meadow": "2025-02-19 04:15:04 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-02-22 02:09:19 +0000",
       "minecraft:plains": "2025-02-19 02:37:31 +0000"
     },
     "done": false
@@ -1616,6 +1618,7 @@
       "minecraft:stray": "2025-02-20 23:15:04 +0000",
       "minecraft:vex": "2025-02-20 03:47:26 +0000",
       "minecraft:zombie": "2025-02-19 02:07:18 +0000",
+      "quark:foxhound": "2025-02-22 03:27:58 +0000",
       "minecraft:drowned": "2025-02-19 02:00:25 +0000",
       "minecraft:zombie_villager": "2025-02-21 03:41:13 +0000"
     },
@@ -3391,6 +3394,7 @@
       "azure_ball": "2025-02-20 21:56:42 +0000",
       "net_ball": "2025-02-21 04:34:00 +0000",
       "dive_ball": "2025-02-20 02:56:56 +0000",
+      "ancient_great_ball": "2025-02-22 05:02:10 +0000",
       "level_ball": "2025-02-19 23:29:29 +0000",
       "safari_ball": "2025-02-20 05:10:56 +0000",
       "dream_ball": "2025-02-20 03:42:17 +0000",
@@ -5867,7 +5871,8 @@
   },
   "cobblemon:craft_ancient_balls": {
     "criteria": {
-      "ancient_poke_ball": "2025-02-20 04:24:31 +0000"
+      "ancient_poke_ball": "2025-02-20 04:24:31 +0000",
+      "ancient_great_ball": "2025-02-22 05:02:10 +0000"
     },
     "done": false
   },
@@ -6577,7 +6582,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-02-21 03:56:56 +0000",
       "minecraft:nether_wastes": "2025-02-21 03:56:28 +0000",
-      "minecraft:soul_sand_valley": "2025-02-21 03:56:02 +0000"
+      "minecraft:soul_sand_valley": "2025-02-21 03:56:02 +0000",
+      "minecraft:basalt_deltas": "2025-02-22 03:34:32 +0000"
     },
     "done": false
   },
@@ -6909,31 +6915,49 @@
     "criteria": {
       "muskeg": "2025-02-22 01:03:39 +0000",
       "snowblossom_grove": "2025-02-21 23:54:38 +0000",
+      "rocky_shrubland": "2025-02-22 01:36:42 +0000",
       "scrubland": "2025-02-21 23:58:26 +0000",
+      "erupting_inferno": "2025-02-22 03:13:30 +0000",
       "mystic_grove": "2025-02-22 00:45:16 +0000",
+      "cold_desert": "2025-02-22 01:34:32 +0000",
       "old_growth_woodland": "2025-02-21 23:57:15 +0000",
+      "maple_woods": "2025-02-22 01:36:35 +0000",
+      "crystalline_chasm": "2025-02-22 03:10:38 +0000",
+      "withered_abyss": "2025-02-22 03:12:59 +0000",
       "field": "2025-02-22 00:51:47 +0000",
+      "orchard": "2025-02-22 01:52:52 +0000",
       "overgrown_greens": "2025-02-22 00:46:18 +0000",
       "mediterranean_forest": "2025-02-22 00:07:51 +0000",
+      "coniferous_forest": "2025-02-22 01:34:49 +0000",
       "forested_field": "2025-02-22 00:51:08 +0000",
+      "spider_nest": "2025-02-22 02:04:22 +0000",
       "redwood_forest": "2025-02-22 00:44:15 +0000",
       "volcanic_plains": "2025-02-21 23:56:34 +0000",
+      "pumpkin_patch": "2025-02-22 01:35:01 +0000",
       "grassland": "2025-02-22 00:49:35 +0000",
+      "prairie": "2025-02-22 01:56:09 +0000",
       "tundra": "2025-02-22 01:08:56 +0000",
       "gravel_beach": "2025-02-22 00:50:07 +0000",
+      "undergrowth": "2025-02-22 03:11:35 +0000",
       "rainforest": "2025-02-21 23:57:13 +0000"
     },
     "done": false
   },
-  "biomesoplenty:recipes/transportation/willow_boat": {
+  "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
-      "in_water": "2025-02-22 00:57:12 +0000"
+      "has_poppy": "2025-02-22 00:43:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_glazed_terracotta": {
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
     "criteria": {
-      "has_white_terracotta": "2025-02-22 00:59:16 +0000"
+      "has_poppy": "2025-02-22 00:43:05 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2025-02-22 00:45:28 +0000"
     },
     "done": true
   },
@@ -6943,15 +6967,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/umbran_boat": {
+  "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-02-22 00:57:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
+  "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
-      "has_poppy": "2025-02-22 00:43:05 +0000"
+      "in_water": "2025-02-22 00:57:12 +0000"
     },
     "done": true
   },
@@ -6967,33 +6991,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-02-22 00:43:05 +0000"
-    },
-    "done": true
-  },
-  "upgrade_aquatic:recipes/misc/cyan_dye_from_pickerelweed": {
-    "criteria": {
-      "has_pickerelweed": "2025-02-22 00:57:30 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_greenwood_pub": {
-    "criteria": {
-      "location0": "2025-02-22 00:45:28 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2025-02-22 00:57:12 +0000"
-    },
-    "done": true
-  },
-  "upgrade_aquatic:recipes/food/boiled_pickerelweed_from_smoking": {
-    "criteria": {
-      "has_pickerelweed": "2025-02-22 00:57:30 +0000"
     },
     "done": true
   },
@@ -7012,18 +7012,6 @@
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-02-22 00:57:12 +0000"
-    },
-    "done": true
-  },
-  "friendsandfoes:adventure/kill_iceologer": {
-    "criteria": {
-      "killed_iceologer": "2025-02-22 01:06:26 +0000"
-    },
-    "done": true
-  },
-  "upgrade_aquatic:recipes/food/boiled_pickerelweed_from_campfire_cooking": {
-    "criteria": {
-      "has_pickerelweed": "2025-02-22 00:57:30 +0000"
     },
     "done": true
   },
@@ -7057,9 +7045,177 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/misc/cyan_dye_from_pickerelweed": {
+    "criteria": {
+      "has_pickerelweed": "2025-02-22 00:57:30 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/food/boiled_pickerelweed_from_smoking": {
+    "criteria": {
+      "has_pickerelweed": "2025-02-22 00:57:30 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/food/boiled_pickerelweed_from_campfire_cooking": {
+    "criteria": {
+      "has_pickerelweed": "2025-02-22 00:57:30 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/food/boiled_pickerelweed": {
     "criteria": {
       "has_pickerelweed": "2025-02-22 00:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-02-22 00:59:16 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_iceologer": {
+    "criteria": {
+      "killed_iceologer": "2025-02-22 01:06:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-02-22 01:16:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-02-22 01:16:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-02-22 01:16:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-02-22 01:16:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-02-22 01:18:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-02-22 01:18:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "supplementaries:flax": "2025-02-22 01:39:17 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-02-22 01:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_glazed_terracotta": {
+    "criteria": {
+      "has_purple_terracotta": "2025-02-22 01:59:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-02-22 02:05:31 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-02-22 02:09:25 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2025-02-22 02:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-02-22 02:28:12 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:airship_village": {
+    "criteria": {
+      "in_airship_village": "2025-02-22 02:38:22 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2025-02-22 03:06:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-02-22 03:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-22 03:23:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-02-22 03:23:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-02-22 03:23:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-02-22 03:29:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-02-22 04:32:36 +0000"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_leader_lt_surge": {
+    "criteria": {
+      "first_defeat": "2025-02-22 04:59:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-02-22 04:59:56 +0000"
     },
     "done": true
   },

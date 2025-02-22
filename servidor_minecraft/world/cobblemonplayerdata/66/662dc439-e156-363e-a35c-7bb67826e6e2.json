@@ -450,8 +450,9 @@
         "darumaka": {
           "normal": {
             "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1740110818978
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740110818978,
+            "caughtTimestamp": 1740194774557
           }
         },
         "roggenrola": {
@@ -520,6 +521,77 @@
             "status": "SEEN",
             "discoveredTimestamp": 1740185780387
           }
+        },
+        "glalie": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740187251254
+          }
+        },
+        "avalugg": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740187996366,
+            "caughtTimestamp": 1740187996366
+          }
+        },
+        "charmeleon": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740188138233,
+            "caughtTimestamp": 1740188138233
+          }
+        },
+        "trevenant": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740188146731,
+            "caughtTimestamp": 1740188146731
+          }
+        },
+        "zoroark": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740190485824,
+            "caughtTimestamp": 1740190576864
+          }
+        },
+        "cubone": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740194438802,
+            "caughtTimestamp": 1740194438802
+          }
+        },
+        "litwick": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740194574346,
+            "caughtTimestamp": 1740194574346
+          }
+        },
+        "shedinja": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740199234503,
+            "caughtTimestamp": 1740199234503
+          }
+        },
+        "golisopod": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740200525845,
+            "caughtTimestamp": 1740200525845
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -527,35 +599,38 @@
     "Cobbledex_RewardHistory": {
       "received": [
         "15",
-        "30"
+        "30",
+        "45"
       ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 22,
+    "totalCaptureCount": 30,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 11,
-    "totalBattleVictoryCount": 53,
+    "totalEvolvedCount": 12,
+    "totalBattleVictoryCount": 66,
     "totalPvPBattleVictoryCount": 3,
-    "totalPvWBattleVictoryCount": 43,
-    "totalPvNBattleVictoryCount": 7,
+    "totalPvWBattleVictoryCount": 55,
+    "totalPvNBattleVictoryCount": 8,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 18,
+    "totalTradedCount": 23,
     "totalTypeCaptureCounts": {
       "normal": 5,
-      "ground": 4,
+      "ground": 7,
       "fighting": 5,
       "rock": 3,
       "flying": 2,
       "psychic": 1,
-      "bug": 1,
+      "bug": 2,
       "poison": 3,
       "electric": 1,
-      "ice": 2,
-      "water": 2,
-      "ghost": 3,
-      "grass": 2
+      "ice": 3,
+      "water": 3,
+      "ghost": 4,
+      "grass": 2,
+      "dark": 1,
+      "fire": 2
     },
     "totalDefeatedCounts": {
       "cobblemon:vulpix": 1,
@@ -570,7 +645,10 @@
       "cobblemon:machop": 1,
       "cobblemon:torchic": 1,
       "cobblemon:snorlax": 1,
-      "cobblemon:granbull": 1
+      "cobblemon:granbull": 1,
+      "cobblemon:darumaka": 2,
+      "cobblemon:litwick": 1,
+      "cobblemon:camerupt": 1
     },
     "aspectsCollected": {}
   }
