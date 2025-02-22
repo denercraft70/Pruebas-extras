@@ -484,6 +484,55 @@
             "discoveredTimestamp": 1740199256644,
             "caughtTimestamp": 1740199256644
           }
+        },
+        "spewpa": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740260192000
+          }
+        },
+        "fomantis": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740260202526
+          }
+        },
+        "skitty": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740260224427
+          }
+        },
+        "stoutland": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740260256815
+          }
+        },
+        "maschiff": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740260284154
+          }
+        },
+        "lilligant": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740260558741
+          }
+        },
+        "blipbug": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740260562899
+          }
         }
       },
       "name": "cobbledex_discovery"

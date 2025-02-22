@@ -383,6 +383,14 @@
             "discoveredTimestamp": 1740200700386,
             "caughtTimestamp": 1740200700386
           }
+        },
+        "gastrodon": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740260222613,
+            "caughtTimestamp": 1740260222613
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -397,7 +405,7 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 32,
+    "totalCaptureCount": 33,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 18,
     "totalBattleVictoryCount": 53,
@@ -407,7 +415,7 @@
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 17,
     "totalTypeCaptureCounts": {
-      "water": 2,
+      "water": 3,
       "ice": 1,
       "normal": 5,
       "flying": 1,
@@ -419,7 +427,8 @@
       "electric": 3,
       "poison": 8,
       "rock": 4,
-      "grass": 7
+      "grass": 7,
+      "ground": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:bunnelby": 1,

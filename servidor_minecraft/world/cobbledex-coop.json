@@ -1064,6 +1064,86 @@
         "discoveredTimestamp": 1740200525846,
         "caughtTimestamp": 1740200525846
       }
+    },
+    "scovillain": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740260191451,
+        "caughtTimestamp": 1740260295647
+      }
+    },
+    "spewpa": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740260192001
+      }
+    },
+    "fomantis": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740260202527
+      }
+    },
+    "gastrodon": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740260222614,
+        "caughtTimestamp": 1740260222614
+      }
+    },
+    "skitty": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740260224428
+      }
+    },
+    "stoutland": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740260256816
+      }
+    },
+    "maschiff": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740260284155
+      }
+    },
+    "purrloin": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740260317465
+      }
+    },
+    "lilligant": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740260558741
+      }
+    },
+    "blipbug": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740260562900
+      }
+    },
+    "zapdos": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740260823763,
+        "caughtTimestamp": 1740260823763
+      }
     }
   }
 }

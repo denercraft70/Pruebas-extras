@@ -3481,3 +3481,52 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22Feb2025 21:35:46.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PavoLoco moved too quickly! 8.717193985727363,2.0358851661626005,5.235648859842058
 [22Feb2025 21:35:54.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
 [22Feb2025 21:36:01.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [We do a little trolling...]
+[22Feb2025 21:36:13.292] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[22Feb2025 21:36:24.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Herb your Enthusiasm]
+[22Feb2025 21:36:32.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3930ms or 78 ticks behind
+[22Feb2025 21:36:53.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6389ms or 127 ticks behind
+[22Feb2025 21:36:54.627] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[22Feb2025 21:37:05.437] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 21:37:05.477] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[22Feb2025 21:37:05.479] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[22Feb2025 21:37:05.479] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[22Feb2025 21:37:05.480] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[22Feb2025 21:37:05.481] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[22Feb2025 21:37:05.482] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[22Feb2025 21:37:05.485] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 21:37:05.485] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[22Feb2025 21:37:12.354] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3840ms or 76 ticks behind
+[22Feb2025 21:37:31.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[22Feb2025 21:38:12.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[22Feb2025 21:38:26.005] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 21:38:26.010] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 21:38:26.506] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[22Feb2025 21:38:28.329] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[22Feb2025 21:38:44.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17393ms or 347 ticks behind
+[22Feb2025 21:39:04.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5211ms or 104 ticks behind
+[22Feb2025 21:39:24.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4973ms or 99 ticks behind
+[22Feb2025 21:39:31.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[22Feb2025 21:39:37.774] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=843, y=7, z=-1247}
+[22Feb2025 21:39:41.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2204ms or 44 ticks behind
+[22Feb2025 21:39:46.188] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id irons_spellbooks:priest
+[22Feb2025 21:39:54.133] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/12958, l='ServerLevel[world]', x=619.50, y=62.00, z=-1398.50]
+[22Feb2025 21:40:04.094] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/13133, l='ServerLevel[world]', x=504.50, y=55.00, z=-1412.50]
+[22Feb2025 21:40:10.346] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/13226, l='ServerLevel[world]', x=630.50, y=49.00, z=-1294.50]
+[22Feb2025 21:40:10.485] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/13228, l='ServerLevel[world]', x=631.50, y=49.00, z=-1294.50]
+[22Feb2025 21:40:14.226] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/13279, l='ServerLevel[world]', x=499.50, y=38.00, z=-1338.50]
+[22Feb2025 21:40:27.879] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/13296, l='ServerLevel[world]', x=501.50, y=40.00, z=-1336.50]
+[22Feb2025 21:41:30.527] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/13795, l='ServerLevel[world]', x=503.50, y=55.00, z=-1412.50]
+[22Feb2025 21:41:31.526] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/13839, l='ServerLevel[world]', x=500.50, y=39.00, z=-1336.50]
+[22Feb2025 21:42:03.478] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/14388, l='ServerLevel[world]', x=632.50, y=49.00, z=-1296.50]
+[22Feb2025 21:42:35.679] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/15063, l='ServerLevel[world]', x=499.50, y=37.00, z=-1336.50]
+[22Feb2025 21:42:41.527] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/15128, l='ServerLevel[world]', x=620.50, y=62.00, z=-1399.50]
+[22Feb2025 21:43:40.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Set the time to 1000]
+[22Feb2025 21:46:29.304] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/17516, l='ServerLevel[world]', x=631.50, y=49.00, z=-1296.50]
+[22Feb2025 21:46:39.450] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / idas:farmhouse], ResourceKey[minecraft:worldgen/structure / integrated_villages:pirate_village], ResourceKey[minecraft:worldgen/structure / bca:custom_village]] from pos BlockPos{x=1963, y=77, z=-821}
+[22Feb2025 21:46:41.715] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1963, y=77, z=-821} but found not block entity block Block{minecraft:air} at location
+[22Feb2025 21:46:41.715] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1963, y=77, z=-821}
+[22Feb2025 21:46:46.656] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / bca:custom_village], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / idas:farmhouse], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_orange], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_red]] from pos BlockPos{x=1829, y=93, z=-1147}
+[22Feb2025 21:48:35.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [We do a little trolling...]
+[22Feb2025 21:50:00.633] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/22736, l='ServerLevel[world]', x=903.50, y=59.00, z=-1088.50]
+[22Feb2025 21:50:13.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to 1856.500000, 97.500000, -1201.500000]
+[22Feb2025 21:50:14.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to 1044.500000, 239.500000, -950.500000]

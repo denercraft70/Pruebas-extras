@@ -81,7 +81,9 @@
       "minecraft:lush_caves": "2025-02-21 00:54:02 +0000",
       "minecraft:deep_cold_ocean": "2025-02-20 00:02:13 +0000",
       "minecraft:frozen_ocean": "2025-02-22 01:31:59 +0000",
+      "minecraft:desert": "2025-02-22 21:39:25 +0000",
       "minecraft:ocean": "2025-02-19 01:58:49 +0000",
+      "minecraft:jungle": "2025-02-22 21:35:18 +0000",
       "minecraft:snowy_beach": "2025-02-20 05:29:54 +0000",
       "minecraft:warm_ocean": "2025-02-19 01:55:13 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-19 04:52:02 +0000",
@@ -6931,6 +6933,7 @@
       "coniferous_forest": "2025-02-22 01:34:49 +0000",
       "forested_field": "2025-02-22 00:51:08 +0000",
       "spider_nest": "2025-02-22 02:04:22 +0000",
+      "lush_desert": "2025-02-22 21:35:42 +0000",
       "redwood_forest": "2025-02-22 00:44:15 +0000",
       "volcanic_plains": "2025-02-21 23:56:34 +0000",
       "pumpkin_patch": "2025-02-22 01:35:01 +0000",
@@ -7216,6 +7219,30 @@
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2025-02-22 04:59:56 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_revival_herb": {
+    "criteria": {
+      "check_inv": "2025-02-22 21:36:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-02-22 21:36:01 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/heal_powder": {
+    "criteria": {
+      "has_herb": "2025-02-22 21:36:24 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/revive": {
+    "criteria": {
+      "has_herb": "2025-02-22 21:36:24 +0000"
     },
     "done": true
   },

@@ -592,6 +592,29 @@
             "discoveredTimestamp": 1740200525845,
             "caughtTimestamp": 1740200525845
           }
+        },
+        "scovillain": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740260191449,
+            "caughtTimestamp": 1740260295646
+          }
+        },
+        "purrloin": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740260317462
+          }
+        },
+        "zapdos": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740260823762,
+            "caughtTimestamp": 1740260823762
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -606,12 +629,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 30,
+    "totalCaptureCount": 32,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 12,
-    "totalBattleVictoryCount": 66,
+    "totalBattleVictoryCount": 68,
     "totalPvPBattleVictoryCount": 3,
-    "totalPvWBattleVictoryCount": 55,
+    "totalPvWBattleVictoryCount": 57,
     "totalPvNBattleVictoryCount": 8,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 23,
@@ -620,17 +643,17 @@
       "ground": 7,
       "fighting": 5,
       "rock": 3,
-      "flying": 2,
+      "flying": 3,
       "psychic": 1,
       "bug": 2,
       "poison": 3,
-      "electric": 1,
+      "electric": 2,
       "ice": 3,
       "water": 3,
       "ghost": 4,
-      "grass": 2,
+      "grass": 3,
       "dark": 1,
-      "fire": 2
+      "fire": 3
     },
     "totalDefeatedCounts": {
       "cobblemon:vulpix": 1,
