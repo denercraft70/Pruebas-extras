@@ -7037,5 +7037,35 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-02-23 21:30:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
+    "criteria": {
+      "ex": "2025-02-23 21:38:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-02-23 21:30:39 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/protector": {
+    "criteria": {
+      "has_terracotta": "2025-02-23 21:30:24 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/rocky_helmet": {
+    "criteria": {
+      "has_stone": "2025-02-23 21:31:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

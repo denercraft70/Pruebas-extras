@@ -697,12 +697,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 34,
+    "totalCaptureCount": 36,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 15,
-    "totalBattleVictoryCount": 74,
+    "totalBattleVictoryCount": 77,
     "totalPvPBattleVictoryCount": 3,
-    "totalPvWBattleVictoryCount": 61,
+    "totalPvWBattleVictoryCount": 64,
     "totalPvNBattleVictoryCount": 10,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 25,
@@ -717,10 +717,10 @@
       "poison": 3,
       "electric": 3,
       "ice": 3,
-      "water": 3,
+      "water": 5,
       "ghost": 4,
       "grass": 3,
-      "dark": 1,
+      "dark": 3,
       "fire": 4
     },
     "totalDefeatedCounts": {
@@ -741,7 +741,8 @@
       "cobblemon:litwick": 1,
       "cobblemon:camerupt": 1,
       "cobblemon:rowlet": 1,
-      "cobblemon:dreepy": 1
+      "cobblemon:dreepy": 1,
+      "cobblemon:skitty": 1
     },
     "aspectsCollected": {}
   }

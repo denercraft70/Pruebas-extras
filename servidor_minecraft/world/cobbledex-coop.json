@@ -1821,6 +1821,36 @@
         "status": "SEEN",
         "discoveredTimestamp": 1740345967578
       }
+    },
+    "maractus": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740346316266
+      }
+    },
+    "liepard": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740346703233,
+        "caughtTimestamp": 1740346876161
+      }
+    },
+    "skorupi": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740346976910
+      }
+    },
+    "grimer": {
+      "alola": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740347090350,
+        "caughtTimestamp": 1740347193137
+      }
     }
   }
 }
