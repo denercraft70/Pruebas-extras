@@ -623,6 +623,58 @@
             "discoveredTimestamp": 1740261448808,
             "caughtTimestamp": 1740261448808
           }
+        },
+        "fuecoco": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740267892057,
+            "caughtTimestamp": 1740267892057
+          }
+        },
+        "excadrill": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740274943604
+          }
+        },
+        "crocalor": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740275051980,
+            "caughtTimestamp": 1740275051980
+          }
+        },
+        "skeledirge": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740275054867,
+            "caughtTimestamp": 1740275054867
+          }
+        },
+        "araquanid": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740275129081
+          }
+        },
+        "tauros": {
+          "paldeablaze": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740280579228
+          }
+        },
+        "cufant": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740280801007
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -637,15 +689,15 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 32,
+    "totalCaptureCount": 33,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 13,
-    "totalBattleVictoryCount": 68,
+    "totalEvolvedCount": 15,
+    "totalBattleVictoryCount": 73,
     "totalPvPBattleVictoryCount": 3,
-    "totalPvWBattleVictoryCount": 57,
-    "totalPvNBattleVictoryCount": 8,
+    "totalPvWBattleVictoryCount": 60,
+    "totalPvNBattleVictoryCount": 10,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 23,
+    "totalTradedCount": 25,
     "totalTypeCaptureCounts": {
       "normal": 5,
       "ground": 7,
@@ -661,7 +713,7 @@
       "ghost": 4,
       "grass": 3,
       "dark": 1,
-      "fire": 3
+      "fire": 4
     },
     "totalDefeatedCounts": {
       "cobblemon:vulpix": 1,
@@ -679,7 +731,9 @@
       "cobblemon:granbull": 1,
       "cobblemon:darumaka": 2,
       "cobblemon:litwick": 1,
-      "cobblemon:camerupt": 1
+      "cobblemon:camerupt": 1,
+      "cobblemon:rowlet": 1,
+      "cobblemon:dreepy": 1
     },
     "aspectsCollected": {}
   }
