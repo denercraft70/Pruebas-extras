@@ -15313,3 +15313,219 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23Feb2025 21:19:05.395] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [23Feb2025 21:19:05.395] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
 [23Feb2025 21:19:06.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to PavoLoco]
+[23Feb2025 21:19:21.127] [Server thread/ERROR] [com.scouter.cobbleoutbreaks.data.OutbreaksJsonDataManager/]: Tag for TagKey[minecraft:worldgen/biome / cobblemon:is_abyss] does not have any biomes!
+[23Feb2025 21:19:21.127] [Server thread/ERROR] [com.scouter.cobbleoutbreaks.data.OutbreaksJsonDataManager/]: Outbreak for cobblemonoutbreaks:haunter_outbreak might not have any biomes assigned!
+[23Feb2025 21:19:21.128] [Server thread/INFO] [com.scouter.cobbleoutbreaks.data.OutbreaksJsonDataManager/]: Registered 120 biomes with pokemon!
+[23Feb2025 21:19:35.445] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[23Feb2025 21:19:35.445] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Feb2025 21:19:35.446] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[23Feb2025 21:20:05.497] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[23Feb2025 21:20:05.497] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Feb2025 21:20:05.498] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[23Feb2025 21:20:16.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emissssss was slain by Executioner
+[23Feb2025 21:20:21.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to PavoLoco]
+[23Feb2025 21:20:33.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 21:20:33.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 21:20:35.545] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[23Feb2025 21:20:35.546] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Feb2025 21:20:35.547] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[23Feb2025 21:20:44.968] [Server thread/DEBUG] [Cobbledex/]: Saving 237 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[23Feb2025 21:20:45.473] [Server thread/DEBUG] [Cobbledex/]: Saving 237 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[23Feb2025 21:21:05.595] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[23Feb2025 21:21:05.595] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Feb2025 21:21:05.595] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[23Feb2025 21:21:07.226] [Server thread/DEBUG] [Cobbledex/]: Saving 237 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[23Feb2025 21:21:18.576] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:nexus/nexus_white
+[23Feb2025 21:21:35.645] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[23Feb2025 21:21:35.646] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Feb2025 21:21:35.646] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[23Feb2025 21:22:05.696] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[23Feb2025 21:22:05.696] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Feb2025 21:22:05.697] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[23Feb2025 21:22:15.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to 878.500000, 78.500000, -797.500000]
+[23Feb2025 21:22:35.746] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[23Feb2025 21:22:35.747] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Feb2025 21:22:35.748] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[23Feb2025 21:22:39.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to PavoLoco]
+[23Feb2025 21:22:45.718] [Server thread/DEBUG] [Cobbledex/]: Saving 237 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[23Feb2025 21:22:46.319] [Server thread/DEBUG] [Cobbledex/]: Saving 237 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[23Feb2025 21:23:05.796] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[23Feb2025 21:23:05.796] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Feb2025 21:23:05.796] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[23Feb2025 21:23:35.845] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[23Feb2025 21:23:35.846] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Feb2025 21:23:35.847] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[23Feb2025 21:23:57.780] [Server thread/DEBUG] [Cobbledex/]: Saving 237 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[23Feb2025 21:24:01.126] [Server thread/DEBUG] [Cobbledex/]: Saving 237 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[23Feb2025 21:24:04.175] [Server thread/DEBUG] [Cobbledex/]: Saving 237 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[23Feb2025 21:24:05.895] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[23Feb2025 21:24:05.895] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Feb2025 21:24:05.896] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[23Feb2025 21:24:26.695] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:sunken_ship/sunken_ship_coral
+[23Feb2025 21:24:32.970] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/22628, l='ServerLevel[world]', x=664.50, y=56.00, z=-933.50]
+[23Feb2025 21:24:33.489] [Server thread/DEBUG] [Cobbledex/]: Saving 238 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[23Feb2025 21:24:34.091] [Server thread/DEBUG] [Cobbledex/]: Saving 238 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[23Feb2025 21:24:35.945] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[23Feb2025 21:24:35.946] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Feb2025 21:24:35.947] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[23Feb2025 21:24:49.173] [Server thread/DEBUG] [Cobbledex/]: Saving 238 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[23Feb2025 21:24:50.256] [Server thread/DEBUG] [Cobbledex/]: Saving 238 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[23Feb2025 21:25:05.996] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[23Feb2025 21:25:05.996] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Feb2025 21:25:05.997] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[23Feb2025 21:25:33.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 21:25:33.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 21:25:36.045] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[23Feb2025 21:25:36.045] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Feb2025 21:25:36.045] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[23Feb2025 21:25:42.680] [Server thread/DEBUG] [Cobbledex/]: Saving 238 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[23Feb2025 21:25:49.377] [Server thread/DEBUG] [Cobbledex/]: Saving 238 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[23Feb2025 21:26:06.095] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[23Feb2025 21:26:06.095] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Feb2025 21:26:06.095] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[23Feb2025 21:26:07.578] [Server thread/DEBUG] [Cobbledex/]: Saving 239 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[23Feb2025 21:26:08.082] [Server thread/DEBUG] [Cobbledex/]: Saving 239 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[23Feb2025 21:26:36.146] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[23Feb2025 21:26:36.146] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Feb2025 21:26:36.146] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[23Feb2025 21:26:44.039] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:fountain/fountain
+[23Feb2025 21:26:44.049] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:fountain/fountain_stairs
+[23Feb2025 21:26:44.055] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:dining_hall/dining_hall_hallway
+[23Feb2025 21:26:44.059] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:grand_library/grand_library_hallway
+[23Feb2025 21:26:44.072] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:small_room/small_crypt_left
+[23Feb2025 21:26:44.078] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:fountain/fountain_hallway1
+[23Feb2025 21:26:44.152] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:dining_hall/dining_hall
+[23Feb2025 21:26:44.229] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:grand_library/grand_library
+[23Feb2025 21:26:44.248] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:small_room/small_brewing_right
+[23Feb2025 21:26:44.250] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:maze/maze_entrance
+[23Feb2025 21:26:44.252] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:fountain/intersection_hallway1
+[23Feb2025 21:26:44.517] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:sanctorum/sanctorum
+[23Feb2025 21:26:44.571] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:dining_hall/dining_hall_storage_right
+[23Feb2025 21:26:44.576] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:dining_hall/dining_hall_storage_left
+[23Feb2025 21:26:44.586] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:grand_library/grand_library_secret_lab
+[23Feb2025 21:26:44.589] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:grand_library/grand_library_pedestal_room
+[23Feb2025 21:26:44.589] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:maze/maze_ladder
+[23Feb2025 21:26:44.596] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:prison/prison_hallway
+[23Feb2025 21:26:44.603] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:small_room/small_library_right
+[23Feb2025 21:26:44.605] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:nether_portal/nether_portal_hallway
+[23Feb2025 21:26:44.610] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:enchanting/enchanting_hallway
+[23Feb2025 21:26:44.613] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:dining_hall/dining_hall_quarters
+[23Feb2025 21:26:44.625] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:prison/prison_hallway2
+[23Feb2025 21:26:44.628] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:small_room/small_bedroom_right
+[23Feb2025 21:26:44.643] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:prison/torture_chamber
+[23Feb2025 21:26:44.660] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:nether_portal/nether_portal
+[23Feb2025 21:26:44.685] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:enchanting/enchanting
+[23Feb2025 21:26:44.691] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:dining_hall/dining_hall_kitchen_stairs
+[23Feb2025 21:26:44.693] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:portal_room/portal_room_hallway
+[23Feb2025 21:26:44.714] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:prison/prison
+[23Feb2025 21:26:44.722] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:sanctorum/intersection2_hallway1
+[23Feb2025 21:26:44.723] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:sanctorum/intersection2_hallway2
+[23Feb2025 21:26:44.725] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:elevator/elevator
+[23Feb2025 21:26:44.737] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:small_room/small_crypt_right
+[23Feb2025 21:26:44.742] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:small_room/small_prison_left
+[23Feb2025 21:26:44.743] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:elevator/maze_hallway
+[23Feb2025 21:26:44.801] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of integrated_stronghold:portal_room/portal_room
+[23Feb2025 21:26:44.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PavoLoco moved too quickly! 5.07444149230173,0.0,-9.628041922298394
+[23Feb2025 21:26:47.166] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_1
+[23Feb2025 21:26:47.169] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/streets/straight_05
+[23Feb2025 21:26:47.171] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/houses/flower_forest_medium_house_1
+[23Feb2025 21:26:47.172] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/streets/corner_01
+[23Feb2025 21:26:48.356] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[23Feb2025 21:26:48.360] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_01
+[23Feb2025 21:26:48.361] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/turn_01
+[23Feb2025 21:26:48.363] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_02
+[23Feb2025 21:26:48.364] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_3
+[23Feb2025 21:26:48.365] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_05
+[23Feb2025 21:26:48.366] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_1
+[23Feb2025 21:26:48.367] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_01
+[23Feb2025 21:26:48.368] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/corner_02
+[23Feb2025 21:26:48.369] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_02
+[23Feb2025 21:26:48.370] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_03
+[23Feb2025 21:26:48.371] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_03
+[23Feb2025 21:26:48.372] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/corner_03
+[23Feb2025 21:26:48.372] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_06
+[23Feb2025 21:26:48.373] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_04
+[23Feb2025 21:26:48.374] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/birch_forest_decor_3
+[23Feb2025 21:26:48.374] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_04
+[23Feb2025 21:26:48.375] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_2
+[23Feb2025 21:26:48.376] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_fisher_1
+[23Feb2025 21:26:48.377] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_05
+[23Feb2025 21:26:48.378] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_6
+[23Feb2025 21:26:48.381] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_medium_house_1
+[23Feb2025 21:26:48.382] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_mason_1
+[23Feb2025 21:26:48.383] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/corner_01
+[23Feb2025 21:26:48.384] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_5
+[23Feb2025 21:26:48.384] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/terminators/terminator_01
+[23Feb2025 21:26:48.385] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/birch_forest_decor_1
+[23Feb2025 21:26:48.386] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_medium_house_2
+[23Feb2025 21:26:48.388] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_4
+[23Feb2025 21:26:48.388] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/terminators/terminator_02
+[23Feb2025 21:26:48.389] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_farm_1
+[23Feb2025 21:26:48.389] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/terminators/terminator_03
+[23Feb2025 21:26:48.390] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_fletcher_1
+[23Feb2025 21:26:48.391] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_06
+[23Feb2025 21:26:48.391] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/birch_forest_decor_2
+[23Feb2025 21:26:48.392] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/terminators/terminator_04
+[23Feb2025 21:26:49.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
+[23Feb2025 21:27:06.197] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[23Feb2025 21:27:06.197] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Feb2025 21:27:06.197] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[23Feb2025 21:27:36.245] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[23Feb2025 21:27:36.245] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Feb2025 21:27:36.245] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[23Feb2025 21:28:06.295] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[23Feb2025 21:28:06.295] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Feb2025 21:28:06.295] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[23Feb2025 21:28:36.346] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[23Feb2025 21:28:36.346] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Feb2025 21:28:36.346] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[23Feb2025 21:28:41.929] [Server thread/DEBUG] [Cobbledex/]: Saving 239 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[23Feb2025 21:28:47.244] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[23Feb2025 21:28:47.245] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_husk_0
+[23Feb2025 21:28:47.246] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_skeleton_0
+[23Feb2025 21:28:52.126] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element terralith:warm_river took 3390 ms
+[23Feb2025 21:28:52.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3381ms or 67 ticks behind
+[23Feb2025 21:28:52.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emissssss moved too quickly! -9.519504992075952,-0.8800391385729398,3.147392323103304
+[23Feb2025 21:28:56.384] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/graveyard/main1
+[23Feb2025 21:28:56.398] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/desert/rock_house1
+[23Feb2025 21:28:56.418] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/barn1
+[23Feb2025 21:28:56.432] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/graveyard1
+[23Feb2025 21:28:56.442] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/3/top
+[23Feb2025 21:28:56.938] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/graveyard_large
+[23Feb2025 21:28:57.897] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/town_centers/grove_meeting_point_1
+[23Feb2025 21:28:57.909] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/town_centers/old_growth_taiga_meeting_point_1
+[23Feb2025 21:28:57.940] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/mushroom_fields_fantasy/town_centers/mushroom_meeting_point_1
+[23Feb2025 21:28:57.952] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/iberian/town_centers/iberian_meeting_point_1
+[23Feb2025 21:28:57.961] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1
+[23Feb2025 21:28:57.974] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[23Feb2025 21:28:58.021] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_slopes_inn/town_centers/snowy_slopes_meeting_point_1
+[23Feb2025 21:28:58.035] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_3
+[23Feb2025 21:28:58.192] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/town_centers/beach_meeting_point_1
+[23Feb2025 21:28:58.218] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/village_ocean/base_plate
+[23Feb2025 21:28:58.222] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_2
+[23Feb2025 21:28:58.243] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/town_centers/tudor_meeting_point_1
+[23Feb2025 21:28:58.258] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/nilotic/base_plate
+[23Feb2025 21:28:58.273] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[23Feb2025 21:28:58.297] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/town_centers/badlands_meeting_point_1
+[23Feb2025 21:29:00.170] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/bridge1
+[23Feb2025 21:29:00.197] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound1
+[23Feb2025 21:29:02.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to -563.500000, 111.000000, -3053.500000]
+[23Feb2025 21:29:02.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emissssss moved too quickly! -10.164430231504127,-0.756759288177264,0.6399766115294483
+[23Feb2025 21:29:06.207] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[23Feb2025 21:29:09.563] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[23Feb2025 21:29:11.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emissssss moved too quickly! -9.415513723219988,0.023088109101550458,3.7959493363095476
+[23Feb2025 21:29:14.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to PavoLoco]
+[23Feb2025 21:29:16.094] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8999ms or 179 ticks behind
+[23Feb2025 21:29:18.805] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[23Feb2025 21:29:18.805] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Feb2025 21:29:18.805] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[23Feb2025 21:29:20.385] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool2
+[23Feb2025 21:29:22.367] [Worker-Main-13/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [iceandfire] are present.
+[23Feb2025 21:29:22.435] [Worker-Main-13/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [ars_nouveau] are present.
+[23Feb2025 21:29:24.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Spectator Mode]
+[23Feb2025 21:29:27.845] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of structory:temple/temple_ruin
+[23Feb2025 21:29:29.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
+[23Feb2025 21:29:36.804] [pool-7-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / integrated_villages:mossy_mounds], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / integrated_villages:oasis_village], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic]] from pos BlockPos{x=-469, y=69, z=-3211}
+[23Feb2025 21:29:37.862] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/27575, l='ServerLevel[world]', x=-481.50, y=57.00, z=-3150.50]
+[23Feb2025 21:29:40.505] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin1
+[23Feb2025 21:29:42.602] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/27627, l='ServerLevel[world]', x=-510.50, y=46.00, z=-3197.50]

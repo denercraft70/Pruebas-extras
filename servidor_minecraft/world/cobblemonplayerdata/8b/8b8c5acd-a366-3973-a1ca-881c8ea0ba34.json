@@ -1027,6 +1027,41 @@
             "status": "SEEN",
             "discoveredTimestamp": 1740345267309
           }
+        },
+        "meganium": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740345644968
+          }
+        },
+        "greninja": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740345765718
+          }
+        },
+        "crabrawler": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740345844174
+          }
+        },
+        "staryu": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740345873488
+          }
+        },
+        "wiglett": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740345967577
+          }
         }
       },
       "name": "cobbledex_discovery"

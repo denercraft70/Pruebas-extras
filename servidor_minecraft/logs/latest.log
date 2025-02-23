@@ -3592,3 +3592,26 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23Feb2025 21:18:47.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emissssss was slain by Gelada Monkey
 [23Feb2025 21:18:47.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set PavoLoco's game mode to Creative Mode
 [23Feb2025 21:19:06.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to PavoLoco]
+[23Feb2025 21:19:21.127] [Server thread/ERROR] [com.scouter.cobbleoutbreaks.data.OutbreaksJsonDataManager/]: Tag for TagKey[minecraft:worldgen/biome / cobblemon:is_abyss] does not have any biomes!
+[23Feb2025 21:19:21.127] [Server thread/ERROR] [com.scouter.cobbleoutbreaks.data.OutbreaksJsonDataManager/]: Outbreak for cobblemonoutbreaks:haunter_outbreak might not have any biomes assigned!
+[23Feb2025 21:19:21.128] [Server thread/INFO] [com.scouter.cobbleoutbreaks.data.OutbreaksJsonDataManager/]: Registered 120 biomes with pokemon!
+[23Feb2025 21:20:16.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emissssss was slain by Executioner
+[23Feb2025 21:20:21.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to PavoLoco]
+[23Feb2025 21:22:15.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to 878.500000, 78.500000, -797.500000]
+[23Feb2025 21:22:39.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to PavoLoco]
+[23Feb2025 21:24:32.970] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/22628, l='ServerLevel[world]', x=664.50, y=56.00, z=-933.50]
+[23Feb2025 21:26:44.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PavoLoco moved too quickly! 5.07444149230173,0.0,-9.628041922298394
+[23Feb2025 21:26:49.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
+[23Feb2025 21:28:52.126] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element terralith:warm_river took 3390 ms
+[23Feb2025 21:28:52.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3381ms or 67 ticks behind
+[23Feb2025 21:28:52.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emissssss moved too quickly! -9.519504992075952,-0.8800391385729398,3.147392323103304
+[23Feb2025 21:29:02.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to -563.500000, 111.000000, -3053.500000]
+[23Feb2025 21:29:02.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emissssss moved too quickly! -10.164430231504127,-0.756759288177264,0.6399766115294483
+[23Feb2025 21:29:11.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emissssss moved too quickly! -9.415513723219988,0.023088109101550458,3.7959493363095476
+[23Feb2025 21:29:14.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to PavoLoco]
+[23Feb2025 21:29:16.094] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8999ms or 179 ticks behind
+[23Feb2025 21:29:24.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Spectator Mode]
+[23Feb2025 21:29:29.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
+[23Feb2025 21:29:36.804] [pool-7-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / integrated_villages:mossy_mounds], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / integrated_villages:oasis_village], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic]] from pos BlockPos{x=-469, y=69, z=-3211}
+[23Feb2025 21:29:37.862] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/27575, l='ServerLevel[world]', x=-481.50, y=57.00, z=-3150.50]
+[23Feb2025 21:29:42.602] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/27627, l='ServerLevel[world]', x=-510.50, y=46.00, z=-3197.50]

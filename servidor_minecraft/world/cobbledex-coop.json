@@ -1800,6 +1800,27 @@
         "status": "SEEN",
         "discoveredTimestamp": 1740345187238
       }
+    },
+    "meganium": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740345644968
+      }
+    },
+    "staryu": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740345873489
+      }
+    },
+    "wiglett": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740345967578
+      }
     }
   }
 }
