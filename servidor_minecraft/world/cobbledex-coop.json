@@ -1504,6 +1504,11 @@
         "isShiny": false,
         "status": "SEEN",
         "discoveredTimestamp": 1740274770215
+      },
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740345343117
       }
     },
     "skiddo": {
@@ -1772,6 +1777,28 @@
         "isShiny": false,
         "status": "SEEN",
         "discoveredTimestamp": 1740284306792
+      }
+    },
+    "zeraora": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740344651147,
+        "caughtTimestamp": 1740344651147
+      }
+    },
+    "lurantis": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740345159397
+      }
+    },
+    "ambipom": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740345187238
       }
     }
   }

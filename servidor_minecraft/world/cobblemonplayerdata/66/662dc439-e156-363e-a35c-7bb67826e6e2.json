@@ -675,6 +675,14 @@
             "status": "SEEN",
             "discoveredTimestamp": 1740280801007
           }
+        },
+        "zeraora": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740344651141,
+            "caughtTimestamp": 1740344651141
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -689,12 +697,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 33,
+    "totalCaptureCount": 34,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 15,
-    "totalBattleVictoryCount": 73,
+    "totalBattleVictoryCount": 74,
     "totalPvPBattleVictoryCount": 3,
-    "totalPvWBattleVictoryCount": 60,
+    "totalPvWBattleVictoryCount": 61,
     "totalPvNBattleVictoryCount": 10,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 25,
@@ -707,7 +715,7 @@
       "psychic": 1,
       "bug": 2,
       "poison": 3,
-      "electric": 2,
+      "electric": 3,
       "ice": 3,
       "water": 3,
       "ghost": 4,

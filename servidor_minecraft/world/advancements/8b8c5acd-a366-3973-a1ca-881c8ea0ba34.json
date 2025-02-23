@@ -6156,6 +6156,7 @@
       "scrubland": "2025-02-21 18:37:13 +0000",
       "fungal_jungle": "2025-02-21 19:13:49 +0000",
       "floodplain": "2025-02-21 19:10:09 +0000",
+      "lush_savanna": "2025-02-23 21:11:39 +0000",
       "highland": "2025-02-21 18:39:38 +0000",
       "jacaranda_glade": "2025-02-21 18:33:49 +0000",
       "mystic_grove": "2025-02-21 18:29:55 +0000",
@@ -7035,78 +7036,6 @@
       "has_cactus": "2025-02-23 04:09:53 +0000"
     },
     "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 04:21:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 04:21:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 04:21:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 04:21:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 04:21:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 04:21:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 04:21:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 04:21:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 04:21:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 04:21:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 04:21:14 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 04:21:14 +0000"
-    },
-    "done": false
   },
   "DataVersion": 3465
 }

@@ -773,6 +773,11 @@
             "isShiny": false,
             "status": "SEEN",
             "discoveredTimestamp": 1740274770214
+          },
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740345343116
           }
         },
         "skiddo": {
@@ -993,6 +998,34 @@
             "isShiny": false,
             "status": "SEEN",
             "discoveredTimestamp": 1740284306791
+          }
+        },
+        "lurantis": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740345159390
+          }
+        },
+        "ambipom": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740345187237
+          }
+        },
+        "tinkatink": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740345241862
+          }
+        },
+        "fletchinder": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740345267309
           }
         }
       },
