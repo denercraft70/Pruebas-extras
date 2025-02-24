@@ -2245,6 +2245,7 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
+      "obtain_charti_berry": "2025-02-24 22:37:55 +0000",
       "obtain_rawst_berry": "2025-02-24 04:32:16 +0000",
       "obtain_chesto_berry": "2025-02-19 02:26:24 +0000",
       "obtain_roseli_berry": "2025-02-20 02:55:50 +0000",
@@ -8236,6 +8237,18 @@
     },
     "done": true
   },
+  "simplyswords:storms_edge": {
+    "criteria": {
+      "requirement": "2025-02-24 22:42:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2025-02-24 22:43:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-02-24 22:29:30 +0000"
@@ -8257,6 +8270,12 @@
   "minecraft:recipes/tools/netherite_machete_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-24 22:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-02-24 22:43:57 +0000"
     },
     "done": true
   },
