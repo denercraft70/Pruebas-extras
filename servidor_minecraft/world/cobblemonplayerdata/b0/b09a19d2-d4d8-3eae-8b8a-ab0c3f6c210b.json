@@ -679,6 +679,20 @@
             "status": "SEEN",
             "discoveredTimestamp": 1740370353132
           }
+        },
+        "lokix": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740435171630
+          }
+        },
+        "dottler": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740435417726
+          }
         }
       },
       "name": "cobbledex_discovery"

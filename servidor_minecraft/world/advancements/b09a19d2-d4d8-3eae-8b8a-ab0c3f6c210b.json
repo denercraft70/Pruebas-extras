@@ -4864,6 +4864,7 @@
       "obtain_super_potion": "2025-02-20 22:19:06 +0000",
       "obtain_hyper_potion": "2025-02-22 00:52:16 +0000",
       "obtain_max_potion": "2025-02-24 03:35:39 +0000",
+      "obtain_full_heal": "2025-02-24 22:06:23 +0000",
       "obtain_potion": "2025-02-20 22:11:06 +0000"
     },
     "done": false
@@ -6307,6 +6308,7 @@
       "wasteland": "2025-02-22 23:46:46 +0000",
       "lush_desert": "2025-02-22 21:47:52 +0000",
       "redwood_forest": "2025-02-22 02:06:29 +0000",
+      "visceral_heap": "2025-02-24 22:06:48 +0000",
       "aspen_glade": "2025-02-21 18:17:15 +0000",
       "rocky_rainforest": "2025-02-21 19:09:12 +0000",
       "volcanic_plains": "2025-02-22 00:47:49 +0000",
@@ -6731,6 +6733,12 @@
   "cobblemon:obtain_mutated_berry": {
     "criteria": {
       "check_inv": "2025-02-24 03:49:09 +0000"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_rocket_admin_archer_1": {
+    "criteria": {
+      "first_defeat": "2025-02-24 22:06:22 +0000"
     },
     "done": true
   },

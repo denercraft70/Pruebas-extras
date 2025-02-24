@@ -8206,77 +8206,101 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
-      "log_spam_fixer": "2025-02-24 05:29:27 +0000"
+      "has_gold_block": "2025-02-24 22:12:48 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
-      "log_spam_fixer": "2025-02-24 05:29:27 +0000"
+      "has_netherite_ingot": "2025-02-24 22:12:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/tools/netherite_machete_smithing": {
     "criteria": {
-      "log_spam_fixer": "2025-02-24 05:29:27 +0000"
+      "has_netherite_ingot": "2025-02-24 22:12:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
-      "log_spam_fixer": "2025-02-24 05:29:27 +0000"
+      "has_netherite_ingot": "2025-02-24 22:12:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
     "criteria": {
-      "log_spam_fixer": "2025-02-24 05:29:27 +0000"
+      "has_netherite_ingot": "2025-02-24 22:12:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
-      "log_spam_fixer": "2025-02-24 05:29:27 +0000"
+      "has_netherite_ingot": "2025-02-24 22:12:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "cobblemon:recipes/held/amulet_coin": {
     "criteria": {
-      "log_spam_fixer": "2025-02-24 05:29:27 +0000"
+      "is_rich": "2025-02-24 22:12:48 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
-      "log_spam_fixer": "2025-02-24 05:29:27 +0000"
+      "has_netherite_ingot": "2025-02-24 22:12:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "supplementaries:recipes/safe": {
     "criteria": {
-      "log_spam_fixer": "2025-02-24 05:29:27 +0000"
+      "has_netherite_ingot": "2025-02-24 22:12:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
-      "log_spam_fixer": "2025-02-24 05:29:27 +0000"
+      "has_netherite_ingot": "2025-02-24 22:12:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
-      "log_spam_fixer": "2025-02-24 05:29:27 +0000"
+      "has_netherite_ingot": "2025-02-24 22:12:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
-      "log_spam_fixer": "2025-02-24 05:29:27 +0000"
+      "has_netherite_ingot": "2025-02-24 22:12:59 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-24 22:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-24 22:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-24 22:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-24 22:12:59 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

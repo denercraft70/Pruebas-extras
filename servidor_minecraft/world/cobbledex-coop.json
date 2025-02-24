@@ -2248,6 +2248,20 @@
         "status": "SEEN",
         "discoveredTimestamp": 1740434399660
       }
+    },
+    "lokix": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740435171631
+      }
+    },
+    "dottler": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740435417727
+      }
     }
   }
 }
