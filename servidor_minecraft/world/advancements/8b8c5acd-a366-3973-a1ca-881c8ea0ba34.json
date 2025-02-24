@@ -6185,6 +6185,7 @@
       "lush_desert": "2025-02-23 02:32:28 +0000",
       "old_growth_dead_forest": "2025-02-24 02:33:06 +0000",
       "redwood_forest": "2025-02-22 00:48:34 +0000",
+      "visceral_heap": "2025-02-24 21:59:02 +0000",
       "dune_beach": "2025-02-24 01:38:14 +0000",
       "rocky_rainforest": "2025-02-21 19:10:17 +0000",
       "volcanic_plains": "2025-02-21 23:55:34 +0000",
@@ -6463,7 +6464,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-02-22 03:16:03 +0000",
-      "minecraft:soul_sand_valley": "2025-02-22 03:16:14 +0000"
+      "minecraft:soul_sand_valley": "2025-02-22 03:16:14 +0000",
+      "minecraft:warped_forest": "2025-02-24 21:59:27 +0000"
     },
     "done": false
   },
@@ -7772,6 +7774,126 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-24 04:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-02-24 21:52:54 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-02-24 21:57:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-02-24 21:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-24 21:55:50 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/river_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-24 21:53:38 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/river_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-24 21:53:38 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/river_door": {
+    "criteria": {
+      "has_planks": "2025-02-24 21:53:38 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-02-24 21:59:19 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/decorations/river_fence": {
+    "criteria": {
+      "has_planks": "2025-02-24 21:53:38 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/decorations/river_sign": {
+    "criteria": {
+      "has_planks": "2025-02-24 21:53:38 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-02-24 21:59:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-02-24 21:55:50 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/river_slab": {
+    "criteria": {
+      "has_planks": "2025-02-24 21:53:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/upgrade_aquatic/sign_post_river": {
+    "criteria": {
+      "has_item": "2025-02-24 21:53:38 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/river_wood": {
+    "criteria": {
+      "has_log": "2025-02-24 21:53:35 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/river_planks": {
+    "criteria": {
+      "has_logs": "2025-02-24 21:53:35 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-02-24 21:59:19 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/river_button": {
+    "criteria": {
+      "has_planks": "2025-02-24 21:53:38 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/river_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-24 21:53:38 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/river_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-24 21:53:38 +0000"
     },
     "done": true
   },

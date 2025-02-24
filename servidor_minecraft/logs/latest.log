@@ -3562,3 +3562,48 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Feb2025 21:55:12.726] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/trainerWins.json
 [24Feb2025 21:55:45.659] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/22307, l='ServerLevel[world]', x=-4975.50, y=53.00, z=-19389.50]
 [24Feb2025 21:55:51.181] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/395, l='ServerLevel[world]', x=-8487.90, y=218.44, z=-7624.53, removed=DISCARDED]
+[24Feb2025 21:56:32.485] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/395, l='ServerLevel[world]', x=-8487.90, y=218.44, z=-7624.53, removed=DISCARDED]
+[24Feb2025 21:56:43.274] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/477, l='ServerLevel[world]', x=-8277.15, y=222.00, z=-7541.12, removed=DISCARDED]
+[24Feb2025 21:56:44.331] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/490, l='ServerLevel[world]', x=-8287.50, y=233.00, z=-7480.50, removed=DISCARDED]
+[24Feb2025 21:56:45.120] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/496, l='ServerLevel[world]', x=-8256.21, y=230.00, z=-7555.13, removed=DISCARDED]
+[24Feb2025 21:56:45.330] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/498, l='ServerLevel[world]', x=-8258.46, y=218.00, z=-7490.35, removed=DISCARDED]
+[24Feb2025 21:56:45.330] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/500, l='ServerLevel[world]', x=-8258.46, y=218.00, z=-7490.35, removed=DISCARDED]
+[24Feb2025 21:56:45.331] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/499, l='ServerLevel[world]', x=-8258.46, y=218.00, z=-7490.35, removed=DISCARDED]
+[24Feb2025 21:56:45.731] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/578, l='ServerLevel[world]', x=-8250.50, y=214.00, z=-7487.50, removed=DISCARDED]
+[24Feb2025 21:56:46.673] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/587, l='ServerLevel[world]', x=-8241.77, y=217.00, z=-7572.55, removed=DISCARDED]
+[24Feb2025 21:56:47.277] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/585, l='ServerLevel[world]', x=-8250.82, y=219.00, z=-7598.56, removed=DISCARDED]
+[24Feb2025 21:56:51.885] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/210, l='ServerLevel[world]', x=-8389.54, y=96.00, z=-7604.65, removed=DISCARDED]
+[24Feb2025 21:56:52.030] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/208, l='ServerLevel[world]', x=-8386.32, y=92.00, z=-7608.07, removed=DISCARDED]
+[24Feb2025 21:57:06.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emissssss has made the advancement [Incendium]
+[24Feb2025 21:57:17.234] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/23366, l='ServerLevel[world]', x=-618.00, y=31.00, z=-2392.00] as it would cause deadlock
+[24Feb2025 21:57:22.749] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/218, l='ServerLevel[world]', x=-8418.50, y=91.00, z=-7610.07, removed=DISCARDED]
+[24Feb2025 21:57:22.757] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/215, l='ServerLevel[world]', x=-8420.82, y=91.00, z=-7610.78, removed=DISCARDED]
+[24Feb2025 21:57:22.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: denercraft moved too quickly! -9.713762421391948,2.054305736345782,1.4660628609644846
+[24Feb2025 21:57:22.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to emissssss]
+[24Feb2025 21:57:22.796] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27803ms or 556 ticks behind
+[24Feb2025 21:57:34.286] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/25357, l='ServerLevel[world]', x=-632.00, y=31.00, z=-2363.00] as it would cause deadlock
+[24Feb2025 21:57:43.461] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/25541, l='ServerLevel[world]', x=-4941.50, y=46.00, z=-19459.50]
+[24Feb2025 21:57:53.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Survival Mode]
+[24Feb2025 21:57:58.087] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/25985, l='ServerLevel[world]', x=-751.10, y=31.00, z=-2341.00] as it would cause deadlock
+[24Feb2025 21:57:59.585] [Worker-Main-7/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/26049, l='ServerLevel[world]', x=-618.00, y=31.00, z=-2607.00] as it would cause deadlock
+[24Feb2025 21:58:04.869] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: denercraft lost connection: Disconnected
+[24Feb2025 21:58:04.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft left the game
+[24Feb2025 21:59:19.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emissssss has made the advancement [Darude - Firestorm]
+[24Feb2025 21:59:19.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emissssss has made the advancement [Strange Biomes]
+[24Feb2025 22:00:23.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to -456.500000, 62.500000, -2693.500000]
+[24Feb2025 22:00:29.040] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: denercraft[/127.158.216.55:57591] logged in with entity id 27359 at (-593.8121146840971, 74.17675927506424, -2446.8767718190506)
+[24Feb2025 22:00:29.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft joined the game
+[24Feb2025 22:01:07.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Set own game mode to Creative Mode]
+[24Feb2025 22:01:09.466] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[24Feb2025 22:01:39.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to emissssss]
+[24Feb2025 22:02:28.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft was slain by Endermite
+[24Feb2025 22:02:32.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to emissssss]
+[24Feb2025 22:03:39.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Creative Mode]
+[24Feb2025 22:03:45.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Survival Mode]
+[24Feb2025 22:03:46.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Set own game mode to Survival Mode]
+[24Feb2025 22:04:22.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Creative Mode]
+[24Feb2025 22:04:32.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Survival Mode]
+[24Feb2025 22:04:33.973] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[24Feb2025 22:06:22.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has reached the goal [Left hand]
+[24Feb2025 22:06:22.217] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/trainerWins.json
+[24Feb2025 22:06:54.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Set own game mode to Spectator Mode]

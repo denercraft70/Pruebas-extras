@@ -2220,6 +2220,34 @@
         "status": "SEEN",
         "discoveredTimestamp": 1740433715913
       }
+    },
+    "magby": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740434298811
+      }
+    },
+    "slugma": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740434307834
+      }
+    },
+    "misdreavus": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740434377209
+      }
+    },
+    "impidimp": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740434399660
+      }
     }
   }
 }

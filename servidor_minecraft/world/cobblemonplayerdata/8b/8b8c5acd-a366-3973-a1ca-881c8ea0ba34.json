@@ -1493,6 +1493,34 @@
             "status": "SEEN",
             "discoveredTimestamp": 1740433715913
           }
+        },
+        "magby": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740434298810
+          }
+        },
+        "slugma": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740434307833
+          }
+        },
+        "misdreavus": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740434377208
+          }
+        },
+        "impidimp": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740434399659
+          }
         }
       },
       "name": "cobbledex_discovery"
