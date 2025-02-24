@@ -719,6 +719,73 @@
             "discoveredTimestamp": 1740350541715,
             "caughtTimestamp": 1740350541715
           }
+        },
+        "xerneas": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740358633507,
+            "caughtTimestamp": 1740358633507
+          }
+        },
+        "spiritomb": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740359252113
+          }
+        },
+        "mew": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740362040894,
+            "caughtTimestamp": 1740362040894
+          }
+        },
+        "cetoddle": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740365538622
+          }
+        },
+        "magnemite": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740366851982,
+            "caughtTimestamp": 1740366851982
+          }
+        },
+        "magneton": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740371028168
+          }
+        },
+        "charcadet": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740371643219
+          }
+        },
+        "glimmet": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740371745101
+          }
+        },
+        "groudon": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740373501139,
+            "caughtTimestamp": 1740373501139
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -733,31 +800,33 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 37,
+    "totalCaptureCount": 41,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 17,
-    "totalBattleVictoryCount": 79,
-    "totalPvPBattleVictoryCount": 3,
-    "totalPvWBattleVictoryCount": 64,
-    "totalPvNBattleVictoryCount": 12,
+    "totalBattleVictoryCount": 92,
+    "totalPvPBattleVictoryCount": 4,
+    "totalPvWBattleVictoryCount": 73,
+    "totalPvNBattleVictoryCount": 15,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 25,
     "totalTypeCaptureCounts": {
       "normal": 5,
-      "ground": 7,
+      "ground": 8,
       "fighting": 5,
       "rock": 3,
       "flying": 3,
-      "psychic": 1,
+      "psychic": 2,
       "bug": 2,
       "poison": 3,
-      "electric": 3,
+      "electric": 4,
       "ice": 3,
       "water": 5,
       "ghost": 4,
       "grass": 4,
       "dark": 3,
-      "fire": 4
+      "fire": 4,
+      "fairy": 1,
+      "steel": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:vulpix": 1,
@@ -773,12 +842,16 @@
       "cobblemon:torchic": 1,
       "cobblemon:snorlax": 1,
       "cobblemon:granbull": 1,
-      "cobblemon:darumaka": 2,
+      "cobblemon:darumaka": 3,
       "cobblemon:litwick": 1,
       "cobblemon:camerupt": 1,
       "cobblemon:rowlet": 1,
       "cobblemon:dreepy": 1,
-      "cobblemon:skitty": 1
+      "cobblemon:skitty": 1,
+      "cobblemon:magby": 3,
+      "cobblemon:numel": 1,
+      "cobblemon:rapidash": 1,
+      "cobblemon:charcadet": 1
     },
     "aspectsCollected": {}
   }

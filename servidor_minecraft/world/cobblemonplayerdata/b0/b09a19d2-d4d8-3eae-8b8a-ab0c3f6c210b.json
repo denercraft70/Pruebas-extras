@@ -642,6 +642,43 @@
             "status": "SEEN",
             "discoveredTimestamp": 1740356531678
           }
+        },
+        "magmar": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740360717893,
+            "caughtTimestamp": 1740360717893
+          }
+        },
+        "honchkrow": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740366718831
+          }
+        },
+        "fuecoco": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740367169317,
+            "caughtTimestamp": 1740367169317
+          }
+        },
+        "beartic": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740370272875
+          }
+        },
+        "magmortar": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740370353132
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -651,21 +688,22 @@
         "15",
         "30",
         "45",
-        "60"
+        "60",
+        "75"
       ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 59,
+    "totalCaptureCount": 60,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 21,
-    "totalBattleVictoryCount": 64,
-    "totalPvPBattleVictoryCount": 2,
+    "totalBattleVictoryCount": 67,
+    "totalPvPBattleVictoryCount": 4,
     "totalPvWBattleVictoryCount": 41,
-    "totalPvNBattleVictoryCount": 21,
+    "totalPvNBattleVictoryCount": 22,
     "totalShinyCaptureCount": 1,
-    "totalTradedCount": 19,
+    "totalTradedCount": 21,
     "totalTypeCaptureCounts": {
       "water": 9,
       "ice": 1,
@@ -681,7 +719,7 @@
       "rock": 4,
       "grass": 14,
       "ground": 5,
-      "fire": 1,
+      "fire": 2,
       "dragon": 4,
       "psychic": 2,
       "dark": 1

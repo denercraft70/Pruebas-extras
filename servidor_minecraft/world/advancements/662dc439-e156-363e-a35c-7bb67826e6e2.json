@@ -1616,6 +1616,7 @@
       "minecraft:evoker": "2025-02-19 04:01:06 +0000",
       "minecraft:slime": "2025-02-21 02:40:39 +0000",
       "quark:forgotten": "2025-02-21 00:58:34 +0000",
+      "minecraft:phantom": "2025-02-24 02:10:56 +0000",
       "minecraft:zombified_piglin": "2025-02-21 04:00:27 +0000",
       "minecraft:witch": "2025-02-21 03:39:45 +0000",
       "minecraft:wither_skeleton": "2025-02-20 04:50:11 +0000",
@@ -2244,6 +2245,7 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
+      "obtain_rawst_berry": "2025-02-24 04:32:16 +0000",
       "obtain_chesto_berry": "2025-02-19 02:26:24 +0000",
       "obtain_roseli_berry": "2025-02-20 02:55:50 +0000",
       "obtain_persim_berry": "2025-02-19 23:29:46 +0000",
@@ -3410,11 +3412,13 @@
       "ancient_great_ball": "2025-02-22 05:02:10 +0000",
       "level_ball": "2025-02-19 23:29:29 +0000",
       "safari_ball": "2025-02-20 05:10:56 +0000",
+      "heavy_ball": "2025-02-24 01:02:44 +0000",
       "dream_ball": "2025-02-20 03:42:17 +0000",
       "verdant_ball": "2025-02-20 22:10:06 +0000",
       "ultra_ball": "2025-02-20 02:32:56 +0000",
       "heal_ball": "2025-02-21 00:10:25 +0000",
       "slate_ball": "2025-02-20 22:10:21 +0000",
+      "beast_ball": "2025-02-24 01:44:37 +0000",
       "poke_ball": "2025-02-19 02:36:44 +0000",
       "citrine_ball": "2025-02-20 22:10:14 +0000",
       "roseate_ball": "2025-02-20 22:10:20 +0000",
@@ -4315,7 +4319,8 @@
   "cobblemon:craft_apricorn_balls": {
     "criteria": {
       "level_ball": "2025-02-19 23:29:29 +0000",
-      "friend_ball": "2025-02-19 23:23:00 +0000"
+      "friend_ball": "2025-02-19 23:23:00 +0000",
+      "heavy_ball": "2025-02-24 01:02:44 +0000"
     },
     "done": false
   },
@@ -4961,9 +4966,10 @@
   },
   "cobblemon:recipes/balls/beast_ball": {
     "criteria": {
+      "has_echo_shard": "2025-02-24 01:09:28 +0000",
       "has_diamond": "2025-02-20 01:34:44 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
@@ -6597,9 +6603,10 @@
       "minecraft:crimson_forest": "2025-02-21 03:56:56 +0000",
       "minecraft:nether_wastes": "2025-02-21 03:56:28 +0000",
       "minecraft:soul_sand_valley": "2025-02-21 03:56:02 +0000",
-      "minecraft:basalt_deltas": "2025-02-22 03:34:32 +0000"
+      "minecraft:basalt_deltas": "2025-02-22 03:34:32 +0000",
+      "minecraft:warped_forest": "2025-02-24 03:16:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
@@ -6935,6 +6942,7 @@
       "erupting_inferno": "2025-02-22 03:13:30 +0000",
       "floodplain": "2025-02-22 23:20:40 +0000",
       "jacaranda_glade": "2025-02-23 22:45:44 +0000",
+      "jade_cliffs": "2025-02-24 01:01:59 +0000",
       "mystic_grove": "2025-02-22 00:45:16 +0000",
       "cold_desert": "2025-02-22 01:34:32 +0000",
       "old_growth_woodland": "2025-02-21 23:57:15 +0000",
@@ -6952,6 +6960,7 @@
       "wasteland": "2025-02-22 23:46:22 +0000",
       "lush_desert": "2025-02-22 21:35:42 +0000",
       "redwood_forest": "2025-02-22 00:44:15 +0000",
+      "visceral_heap": "2025-02-24 03:16:12 +0000",
       "aspen_glade": "2025-02-22 23:17:29 +0000",
       "dune_beach": "2025-02-24 00:18:27 +0000",
       "seasonal_forest": "2025-02-22 23:17:19 +0000",
@@ -7767,6 +7776,433 @@
   "alexsmobs:alexsmobs/murmur": {
     "criteria": {
       "killed_by": "2025-02-24 00:09:06 +0000"
+    },
+    "done": true
+  },
+  "legends_untold:xerneas_tree": {
+    "criteria": {
+      "xerneas_tree": "2025-02-24 00:52:00 +0000"
+    },
+    "done": true
+  },
+  "legends_untold:find_legendary": {
+    "criteria": {
+      "sky_pillar": "2025-02-24 00:52:00 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-02-24 00:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-24 01:03:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-24 01:09:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-24 01:09:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-24 01:09:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-24 01:09:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-02-24 01:09:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-02-24 01:09:35 +0000"
+    },
+    "done": true
+  },
+  "legends_untold:sky_pillar": {
+    "criteria": {
+      "sky_pillar": "2025-02-24 01:12:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-02-24 01:45:02 +0000"
+    },
+    "done": true
+  },
+  "legends_untold:mew_ruins": {
+    "criteria": {
+      "mew_ruins": "2025-02-24 01:52:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2025-02-24 02:06:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-02-24 02:06:44 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/food/golden_apple_stew": {
+    "criteria": {
+      "has_golden_apple": "2025-02-24 02:06:44 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/covert_cloak": {
+    "criteria": {
+      "has_membrane": "2025-02-24 02:10:57 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/reaper_cloth": {
+    "criteria": {
+      "has_membrane": "2025-02-24 02:10:57 +0000"
+    },
+    "done": true
+  },
+  "souls_like_bosses:defeat_lothran": {
+    "criteria": {
+      "egg": "2025-02-24 02:23:13 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-02-24 02:39:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-02-24 02:41:58 +0000"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_rival_terry": {
+    "criteria": {
+      "first_defeat": "2025-02-24 02:59:42 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-02-24 03:15:18 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:quartz_flats": "2025-02-24 03:16:59 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-02-24 03:17:01 +0000",
+      "incendium:quartz_flats": "2025-02-24 03:16:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-02-24 03:16:59 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-02-24 03:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-24 03:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-02-24 03:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-24 03:20:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_blackstone": "2025-02-24 03:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-24 03:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-24 03:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-02-24 03:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-24 03:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-02-24 03:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-24 03:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-24 03:20:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_bulb": {
+    "criteria": {
+      "has_blackstone": "2025-02-24 03:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-24 03:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-24 03:20:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_spines": {
+    "criteria": {
+      "has_blackstone": "2025-02-24 03:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-24 03:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-02-24 03:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-24 03:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-24 03:20:56 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/blackstone_furnace": {
+    "criteria": {
+      "has_blackstone": "2025-02-24 03:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-24 03:20:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_spines_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-24 03:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-02-24 03:21:10 +0000"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_boss_giovanni_1": {
+    "criteria": {
+      "first_defeat": "2025-02-24 03:49:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-24 03:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-24 03:49:16 +0000"
+    },
+    "done": true
+  },
+  "rctmod:trainers/defeat_rocket_admin_archer_1": {
+    "criteria": {
+      "first_defeat": "2025-02-24 04:01:45 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/bold_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-02-24 04:07:33 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/gentle_mint": {
+    "criteria": {
+      "has_detriment_mint": "2025-02-24 04:07:33 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/impish_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-02-24 04:07:33 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:obtain_mint": {
+    "criteria": {
+      "check_inv": "2025-02-24 04:07:33 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_all_mints": {
+    "criteria": {
+      "obtain_blue_mint_leaf": "2025-02-24 04:07:33 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/hasty_mint": {
+    "criteria": {
+      "has_detriment_mint": "2025-02-24 04:07:33 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/held/power_belt": {
+    "criteria": {
+      "has_mint": "2025-02-24 04:07:33 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/mild_mint": {
+    "criteria": {
+      "has_detriment_mint": "2025-02-24 04:07:33 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/lax_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-02-24 04:07:33 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/relaxed_mint": {
+    "criteria": {
+      "has_benefit_mint": "2025-02-24 04:07:33 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/consumables/lonely_mint": {
+    "criteria": {
+      "has_detriment_mint": "2025-02-24 04:07:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-24 04:30:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-24 04:30:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-24 04:30:15 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/magmarizer": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-24 04:30:15 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/focus_sash": {
+    "criteria": {
+      "has_powder": "2025-02-24 04:30:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-02-24 04:33:03 +0000"
     },
     "done": true
   },

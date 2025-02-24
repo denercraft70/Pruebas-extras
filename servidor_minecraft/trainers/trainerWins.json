@@ -29,11 +29,19 @@
   "bug_catcher_01f1": [
     "8b8c5acd-a366-3973-a1ca-881c8ea0ba34"
   ],
+  "boss_giovanni_015c": [
+    "662dc439-e156-363e-a35c-7bb67826e6e2",
+    "8b8c5acd-a366-3973-a1ca-881c8ea0ba34",
+    "b09a19d2-d4d8-3eae-8b8a-ab0c3f6c210b"
+  ],
   "hiker_nob_00b7": [
     "b09a19d2-d4d8-3eae-8b8a-ab0c3f6c210b"
   ],
   "camper_ricky_0091": [
     "b09a19d2-d4d8-3eae-8b8a-ab0c3f6c210b"
+  ],
+  "picnicker_becky_029e": [
+    "8b8c5acd-a366-3973-a1ca-881c8ea0ba34"
   ],
   "leader_erika_01a1": [
     "662dc439-e156-363e-a35c-7bb67826e6e2",
@@ -63,6 +71,7 @@
     "8b8c5acd-a366-3973-a1ca-881c8ea0ba34"
   ],
   "rival_terry_01ac": [
+    "662dc439-e156-363e-a35c-7bb67826e6e2",
     "b09a19d2-d4d8-3eae-8b8a-ab0c3f6c210b"
   ],
   "camper_ethan_0090": [
@@ -96,6 +105,9 @@
     "662dc439-e156-363e-a35c-7bb67826e6e2",
     "8b8c5acd-a366-3973-a1ca-881c8ea0ba34",
     "b09a19d2-d4d8-3eae-8b8a-ab0c3f6c210b"
+  ],
+  "rocket_admin_archer_0035": [
+    "662dc439-e156-363e-a35c-7bb67826e6e2"
   ],
   "picnicker_isabelle_0098": [
     "662dc439-e156-363e-a35c-7bb67826e6e2"
