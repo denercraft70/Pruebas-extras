@@ -700,6 +700,21 @@
             "status": "SEEN",
             "discoveredTimestamp": 1740435565594
           }
+        },
+        "dracozolt": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740436215229
+          }
+        },
+        "fidough": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740436465735,
+            "caughtTimestamp": 1740436465735
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -716,21 +731,21 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 60,
+    "totalCaptureCount": 61,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 21,
-    "totalBattleVictoryCount": 69,
+    "totalBattleVictoryCount": 70,
     "totalPvPBattleVictoryCount": 4,
     "totalPvWBattleVictoryCount": 41,
-    "totalPvNBattleVictoryCount": 24,
-    "totalShinyCaptureCount": 1,
+    "totalPvNBattleVictoryCount": 25,
+    "totalShinyCaptureCount": 2,
     "totalTradedCount": 21,
     "totalTypeCaptureCounts": {
       "water": 9,
       "ice": 1,
       "normal": 7,
       "flying": 8,
-      "fairy": 3,
+      "fairy": 4,
       "steel": 4,
       "bug": 6,
       "fighting": 5,

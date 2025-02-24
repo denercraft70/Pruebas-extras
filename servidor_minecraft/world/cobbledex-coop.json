@@ -2269,6 +2269,21 @@
         "status": "SEEN",
         "discoveredTimestamp": 1740435565594
       }
+    },
+    "dracozolt": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740436215229
+      }
+    },
+    "fidough": {
+      "normal": {
+        "isShiny": true,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740436465735,
+        "caughtTimestamp": 1740436465735
+      }
     }
   }
 }
