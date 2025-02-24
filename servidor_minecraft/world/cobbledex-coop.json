@@ -1851,6 +1851,87 @@
         "discoveredTimestamp": 1740347090350,
         "caughtTimestamp": 1740347193137
       }
+    },
+    "tangrowth": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740347504685
+      }
+    },
+    "exeggutor": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740347653371
+      }
+    },
+    "nidoking": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740348947815
+      }
+    },
+    "sudowoodo": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740349232726
+      }
+    },
+    "turtwig": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740349547579,
+        "caughtTimestamp": 1740349721372
+      }
+    },
+    "xerneas": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740350097970,
+        "caughtTimestamp": 1740350377526
+      }
+    },
+    "grotle": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740350511098,
+        "caughtTimestamp": 1740350511098
+      }
+    },
+    "torterra": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740350541716,
+        "caughtTimestamp": 1740350541716
+      }
+    },
+    "nidoranf": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740351175791
+      }
+    },
+    "wooloo": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740351432739
+      }
+    },
+    "sharpedo": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740352243296
+      }
     }
   }
 }

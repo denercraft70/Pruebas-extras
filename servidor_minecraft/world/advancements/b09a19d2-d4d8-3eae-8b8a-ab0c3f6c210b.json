@@ -6598,87 +6598,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 04:21:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 04:21:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 04:21:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 04:21:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 04:21:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 04:21:15 +0000"
-    },
-    "done": false
-  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-02-23 03:17:21 +0000"
     },
     "done": false
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 04:21:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 04:21:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 04:21:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 04:21:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 04:21:15 +0000"
-    },
-    "done": false
-  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-02-23 03:17:21 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-23 04:21:15 +0000"
     },
     "done": false
   },
@@ -6694,9 +6622,9 @@
     },
     "done": false
   },
-  "mowziesmobs:kill_umvuthana_raptor": {
+  "cobblemon:first_shiny_catch": {
     "criteria": {
-      "umvuthana_raptor": "2025-02-23 03:48:50 +0000"
+      "catch": "2025-02-23 03:28:44 +0000"
     },
     "done": true
   },
@@ -6706,27 +6634,27 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2025-02-23 03:52:14 +0000"
-    },
-    "done": true
-  },
   "rctmod:trainers/defeat_leader_erika": {
     "criteria": {
       "first_defeat": "2025-02-23 03:39:11 +0000"
     },
     "done": true
   },
-  "idas:fishermans_lodge": {
+  "mowziesmobs:kill_umvuthana_raptor": {
     "criteria": {
-      "in_fishermans_lodge": "2025-02-23 03:54:14 +0000"
+      "umvuthana_raptor": "2025-02-23 03:48:50 +0000"
     },
     "done": true
   },
-  "cobblemon:first_shiny_catch": {
+  "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
-      "catch": "2025-02-23 03:28:44 +0000"
+      "killed_by": "2025-02-23 03:52:14 +0000"
+    },
+    "done": true
+  },
+  "idas:fishermans_lodge": {
+    "criteria": {
+      "in_fishermans_lodge": "2025-02-23 03:54:14 +0000"
     },
     "done": true
   },

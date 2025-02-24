@@ -1099,6 +1099,106 @@
             "discoveredTimestamp": 1740347090349,
             "caughtTimestamp": 1740347193136
           }
+        },
+        "tangrowth": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740347504684
+          }
+        },
+        "exeggutor": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740347653370
+          }
+        },
+        "golisopod": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740347752609
+          }
+        },
+        "nidoking": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740348947814
+          }
+        },
+        "sudowoodo": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740349232725
+          }
+        },
+        "turtwig": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740349547579,
+            "caughtTimestamp": 1740349721371
+          }
+        },
+        "petilil": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740350051868
+          }
+        },
+        "xerneas": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740350097969,
+            "caughtTimestamp": 1740350377525
+          }
+        },
+        "araquanid": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740350532466
+          }
+        },
+        "darmanitan": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740350954951
+          }
+        },
+        "nidoranf": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740351175791
+          }
+        },
+        "wooloo": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740351432738
+          }
+        },
+        "sharpedo": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740352243295
+          }
+        },
+        "lapras": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740352436495
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1112,12 +1212,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 24,
+    "totalCaptureCount": 26,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 5,
-    "totalBattleVictoryCount": 37,
+    "totalBattleVictoryCount": 39,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 26,
+    "totalPvWBattleVictoryCount": 28,
     "totalPvNBattleVictoryCount": 10,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 12,
@@ -1132,8 +1232,8 @@
       "poison": 4,
       "fighting": 1,
       "ghost": 1,
-      "grass": 2,
-      "fairy": 1,
+      "grass": 3,
+      "fairy": 2,
       "ice": 1,
       "bug": 1,
       "steel": 1,

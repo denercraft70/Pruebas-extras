@@ -667,6 +667,11 @@
             "isShiny": false,
             "status": "SEEN",
             "discoveredTimestamp": 1740280579228
+          },
+          "paldeaaqua": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740348608758
           }
         },
         "cufant": {
@@ -683,6 +688,37 @@
             "discoveredTimestamp": 1740344651141,
             "caughtTimestamp": 1740344651141
           }
+        },
+        "electivire": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740347595086
+          }
+        },
+        "turtwig": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740350417071,
+            "caughtTimestamp": 1740350417071
+          }
+        },
+        "grotle": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740350511097,
+            "caughtTimestamp": 1740350511097
+          }
+        },
+        "torterra": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740350541715,
+            "caughtTimestamp": 1740350541715
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -697,13 +733,13 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 36,
+    "totalCaptureCount": 37,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 15,
-    "totalBattleVictoryCount": 77,
+    "totalEvolvedCount": 17,
+    "totalBattleVictoryCount": 79,
     "totalPvPBattleVictoryCount": 3,
     "totalPvWBattleVictoryCount": 64,
-    "totalPvNBattleVictoryCount": 10,
+    "totalPvNBattleVictoryCount": 12,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 25,
     "totalTypeCaptureCounts": {
@@ -719,7 +755,7 @@
       "ice": 3,
       "water": 5,
       "ghost": 4,
-      "grass": 3,
+      "grass": 4,
       "dark": 3,
       "fire": 4
     },
