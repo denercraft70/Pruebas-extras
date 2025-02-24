@@ -1968,6 +1968,12 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1740356120717,
         "caughtTimestamp": 1740373501141
+      },
+      "primal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740373690251,
+        "caughtTimestamp": 1740373690251
       }
     },
     "tyrantrum": {

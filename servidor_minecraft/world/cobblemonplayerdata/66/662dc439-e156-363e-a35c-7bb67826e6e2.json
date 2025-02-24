@@ -785,6 +785,12 @@
             "status": "CAUGHT",
             "discoveredTimestamp": 1740373501139,
             "caughtTimestamp": 1740373501139
+          },
+          "primal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740373690249,
+            "caughtTimestamp": 1740373690249
           }
         }
       },
@@ -794,7 +800,8 @@
       "received": [
         "15",
         "30",
-        "45"
+        "45",
+        "60"
       ],
       "name": "Cobbledex_RewardHistory"
     }
