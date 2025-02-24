@@ -2928,3 +2928,14 @@ java.lang.NullPointerException: null
 [24Feb2025 00:22:32.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to -2784.500000, 120.500000, -2020.500000]
 [24Feb2025 00:22:49.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Spectator Mode]
 [24Feb2025 00:22:50.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
+[24Feb2025 00:22:56.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to emissssss]
+[24Feb2025 00:22:58.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Spectator Mode]
+[24Feb2025 00:23:14.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Creative Mode]
+[24Feb2025 00:23:17.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[24Feb2025 00:23:18.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to denercraft]
+[24Feb2025 00:23:56.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to -1856.500000, 65.500000, 345.500000]
+[24Feb2025 00:24:03.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to -1913.500000, 63.500000, 397.500000]
+[24Feb2025 00:24:23.231] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emissssss lost connection: Disconnected
+[24Feb2025 00:24:23.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emissssss left the game
+[24Feb2025 00:26:47.069] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: denercraft lost connection: Disconnected
+[24Feb2025 00:26:47.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft left the game

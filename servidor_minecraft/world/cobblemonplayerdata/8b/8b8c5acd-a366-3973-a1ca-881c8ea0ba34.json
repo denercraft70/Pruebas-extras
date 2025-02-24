@@ -1227,6 +1227,13 @@
             "status": "SEEN",
             "discoveredTimestamp": 1740356201273
           }
+        },
+        "jellicent": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740356647221
+          }
         }
       },
       "name": "cobbledex_discovery"
