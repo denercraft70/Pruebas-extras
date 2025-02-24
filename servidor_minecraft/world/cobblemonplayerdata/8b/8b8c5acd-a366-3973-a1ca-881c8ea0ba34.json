@@ -1472,6 +1472,27 @@
             "status": "SEEN",
             "discoveredTimestamp": 1740370997325
           }
+        },
+        "poliwrath": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740374961161
+          }
+        },
+        "mudsdale": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740433238560
+          }
+        },
+        "skiploom": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740433715913
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1489,10 +1510,10 @@
     "totalCaptureCount": 30,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 9,
-    "totalBattleVictoryCount": 44,
-    "totalPvPBattleVictoryCount": 3,
+    "totalBattleVictoryCount": 46,
+    "totalPvPBattleVictoryCount": 4,
     "totalPvWBattleVictoryCount": 29,
-    "totalPvNBattleVictoryCount": 12,
+    "totalPvNBattleVictoryCount": 13,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 14,
     "totalTypeCaptureCounts": {

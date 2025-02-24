@@ -2199,6 +2199,27 @@
         "status": "SEEN",
         "discoveredTimestamp": 1740371745102
       }
+    },
+    "poliwrath": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740374961161
+      }
+    },
+    "mudsdale": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740433238563
+      }
+    },
+    "skiploom": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740433715913
+      }
     }
   }
 }
