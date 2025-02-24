@@ -2262,6 +2262,13 @@
         "status": "SEEN",
         "discoveredTimestamp": 1740435417727
       }
+    },
+    "primarina": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740435565594
+      }
     }
   }
 }
