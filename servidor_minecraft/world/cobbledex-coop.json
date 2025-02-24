@@ -1932,6 +1932,34 @@
         "status": "SEEN",
         "discoveredTimestamp": 1740352243296
       }
+    },
+    "lanturn": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740355976274
+      }
+    },
+    "veluza": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740356023310
+      }
+    },
+    "groudon": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740356120717
+      }
+    },
+    "tyrantrum": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740356531679
+      }
     }
   }
 }

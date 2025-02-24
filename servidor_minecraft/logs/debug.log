@@ -15090,3 +15090,295 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Feb2025 00:08:48.950] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
 [24Feb2025 00:09:06.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Flexible Schedule]
 [24Feb2025 00:09:11.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[24Feb2025 00:09:20.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to denercraft]
+[24Feb2025 00:09:22.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to denercraft]
+[24Feb2025 00:09:24.180] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[24Feb2025 00:09:24.181] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[24Feb2025 00:09:24.190] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[24Feb2025 00:09:50.998] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[24Feb2025 00:09:50.999] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[24Feb2025 00:09:51.000] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[24Feb2025 00:10:10.842] [Server thread/DEBUG] [mixin/]: Mixing PlayerBattleActorMixin from cobblemontrainers-common.mixins.json into com.cobblemon.mod.common.battles.actor.PlayerBattleActor
+[24Feb2025 00:10:11.654] [Server thread/DEBUG] [mixin/]: Mixing SwitchInstructionMixin from cobblemontrainers-common.mixins.json into com.cobblemon.mod.common.battles.interpreter.instructions.SwitchInstruction
+[24Feb2025 00:10:21.681] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[24Feb2025 00:10:21.683] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[24Feb2025 00:10:21.692] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[24Feb2025 00:10:22.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Creative Mode]
+[24Feb2025 00:10:26.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PavoLoco moved too quickly! -1.0084145130824709,0.0,-10.663526656757654
+[24Feb2025 00:10:27.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[24Feb2025 00:10:28.715] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[24Feb2025 00:10:46.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3753ms or 75 ticks behind
+[24Feb2025 00:10:52.841] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_2
+[24Feb2025 00:10:52.875] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_2
+[24Feb2025 00:10:52.910] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_3
+[24Feb2025 00:11:00.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 00:11:00.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 00:11:02.326] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[24Feb2025 00:11:02.326] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[24Feb2025 00:11:02.341] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[24Feb2025 00:11:12.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11199ms or 223 ticks behind
+[24Feb2025 00:11:31.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3937ms or 78 ticks behind
+[24Feb2025 00:11:32.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
+[24Feb2025 00:11:41.998] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[24Feb2025 00:11:41.998] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[24Feb2025 00:11:42.065] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[24Feb2025 00:11:58.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Spectator Mode]
+[24Feb2025 00:12:05.037] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: c82da641-114c-43a4-b9ef-e33a4673781c
+[24Feb2025 00:12:05.037] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: c82da641-114c-43a4-b9ef-e33a4673781c
+[24Feb2025 00:12:10.242] [Server thread/DEBUG] [Cobbledex/]: Saving 254 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[24Feb2025 00:12:12.581] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 4 Pokémon stores.
+[24Feb2025 00:12:12.583] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[24Feb2025 00:12:12.589] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 4 Pokémon stores.
+[24Feb2025 00:12:12.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to emissssss]
+[24Feb2025 00:12:14.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
+[24Feb2025 00:12:26.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Spectator Mode]
+[24Feb2025 00:12:42.099] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[24Feb2025 00:12:42.100] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[24Feb2025 00:12:42.103] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[24Feb2025 00:12:56.274] [Server thread/DEBUG] [Cobbledex/]: Saving 255 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[24Feb2025 00:12:58.278] [Server thread/DEBUG] [Cobbledex/]: Saving 255 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[24Feb2025 00:13:13.386] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[24Feb2025 00:13:13.387] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[24Feb2025 00:13:13.388] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[24Feb2025 00:13:20.059] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[24Feb2025 00:13:35.469] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/jungle/villagers
+[24Feb2025 00:13:35.469] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/jungle/villagers
+[24Feb2025 00:13:35.473] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/jungle/villagers
+[24Feb2025 00:13:40.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to -1070.500000, 63.500000, 864.500000]
+[24Feb2025 00:13:42.923] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[24Feb2025 00:13:42.923] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[24Feb2025 00:13:42.925] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[24Feb2025 00:13:42.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
+[24Feb2025 00:13:43.310] [Server thread/DEBUG] [Cobbledex/]: Saving 256 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[24Feb2025 00:13:43.563] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor/large1
+[24Feb2025 00:13:43.588] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/spider_spawner
+[24Feb2025 00:13:49.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Spectator Mode]
+[24Feb2025 00:13:55.716] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[24Feb2025 00:14:14.249] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[24Feb2025 00:14:14.250] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[24Feb2025 00:14:14.252] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[24Feb2025 00:14:15.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to PavoLoco]
+[24Feb2025 00:14:22.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
+[24Feb2025 00:14:28.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Spectator Mode]
+[24Feb2025 00:14:44.298] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[24Feb2025 00:14:44.298] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[24Feb2025 00:14:44.299] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[24Feb2025 00:14:50.179] [Server thread/DEBUG] [Cobbledex/]: Saving 256 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[24Feb2025 00:14:51.381] [Server thread/DEBUG] [Cobbledex/]: Saving 256 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[24Feb2025 00:14:54.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
+[24Feb2025 00:14:59.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to PavoLoco]
+[24Feb2025 00:15:05.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to emissssss]
+[24Feb2025 00:15:14.349] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[24Feb2025 00:15:14.349] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[24Feb2025 00:15:14.351] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[24Feb2025 00:15:20.717] [Server thread/DEBUG] [Cobbledex/]: Saving 257 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[24Feb2025 00:15:21.383] [Server thread/DEBUG] [Cobbledex/]: Saving 257 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[24Feb2025 00:15:21.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco was slain by Zombie
+[24Feb2025 00:15:23.215] [Server thread/DEBUG] [Cobbledex/]: Saving 257 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[24Feb2025 00:15:30.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to emissssss]
+[24Feb2025 00:15:33.174] [Server thread/ERROR] [com.scouter.cobbleoutbreaks.data.OutbreaksJsonDataManager/]: Tag for TagKey[minecraft:worldgen/biome / cobblemon:is_abyss] does not have any biomes!
+[24Feb2025 00:15:33.175] [Server thread/ERROR] [com.scouter.cobbleoutbreaks.data.OutbreaksJsonDataManager/]: Outbreak for cobblemonoutbreaks:haunter_outbreak might not have any biomes assigned!
+[24Feb2025 00:15:33.175] [Server thread/INFO] [com.scouter.cobbleoutbreaks.data.OutbreaksJsonDataManager/]: Registered 120 biomes with pokemon!
+[24Feb2025 00:15:44.398] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[24Feb2025 00:15:44.399] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[24Feb2025 00:15:44.402] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[24Feb2025 00:15:56.040] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[24Feb2025 00:16:13.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 00:16:13.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 00:16:14.448] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[24Feb2025 00:16:14.448] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[24Feb2025 00:16:14.450] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[24Feb2025 00:16:41.274] [Server thread/DEBUG] [Cobbledex/]: Saving 257 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[24Feb2025 00:16:41.758] [Server thread/DEBUG] [Cobbledex/]: Saving 257 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[24Feb2025 00:16:44.498] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[24Feb2025 00:16:44.499] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[24Feb2025 00:16:44.500] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[24Feb2025 00:16:55.407] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/trainerWins.json
+[24Feb2025 00:17:04.253] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pyramid1
+[24Feb2025 00:17:11.580] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Gravel'/27547, l='ServerLevel[world]', x=-1255.50, y=27.00, z=669.50]
+[24Feb2025 00:17:14.613] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[24Feb2025 00:17:14.613] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[24Feb2025 00:17:14.615] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[24Feb2025 00:17:19.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Survival Mode]
+[24Feb2025 00:17:32.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Creative Mode]
+[24Feb2025 00:17:36.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Set own game mode to Adventure Mode]
+[24Feb2025 00:17:40.317] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool3
+[24Feb2025 00:17:43.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Set own game mode to Spectator Mode]
+[24Feb2025 00:17:45.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Spectator Mode]
+[24Feb2025 00:17:45.098] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[24Feb2025 00:17:45.099] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[24Feb2025 00:17:45.101] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[24Feb2025 00:17:45.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Set own game mode to Creative Mode]
+[24Feb2025 00:17:46.231] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound1
+[24Feb2025 00:17:47.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Set own game mode to Survival Mode]
+[24Feb2025 00:17:50.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Set own game mode to Adventure Mode]
+[24Feb2025 00:17:56.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Set own game mode to Spectator Mode]
+[24Feb2025 00:18:10.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft fell from a high place
+[24Feb2025 00:18:12.689] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/modded/waystones/waystone_default
+[24Feb2025 00:18:12.720] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_01
+[24Feb2025 00:18:12.755] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/turn_01
+[24Feb2025 00:18:12.801] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_02
+[24Feb2025 00:18:12.830] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_3
+[24Feb2025 00:18:12.851] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_05
+[24Feb2025 00:18:12.881] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_1
+[24Feb2025 00:18:12.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_01
+[24Feb2025 00:18:12.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/corner_02
+[24Feb2025 00:18:12.928] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_02
+[24Feb2025 00:18:12.944] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_03
+[24Feb2025 00:18:12.953] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_03
+[24Feb2025 00:18:12.967] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/corner_03
+[24Feb2025 00:18:12.981] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_06
+[24Feb2025 00:18:12.996] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_04
+[24Feb2025 00:18:13.026] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/birch_forest_decor_3
+[24Feb2025 00:18:13.035] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_04
+[24Feb2025 00:18:13.053] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_2
+[24Feb2025 00:18:13.085] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_fisher_1
+[24Feb2025 00:18:13.098] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_05
+[24Feb2025 00:18:13.117] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_6
+[24Feb2025 00:18:13.135] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_medium_house_1
+[24Feb2025 00:18:13.162] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_mason_1
+[24Feb2025 00:18:13.175] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/corner_01
+[24Feb2025 00:18:13.200] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_5
+[24Feb2025 00:18:13.209] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/terminators/terminator_01
+[24Feb2025 00:18:13.246] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/birch_forest_decor_1
+[24Feb2025 00:18:13.248] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_medium_house_2
+[24Feb2025 00:18:13.250] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_4
+[24Feb2025 00:18:13.250] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/terminators/terminator_02
+[24Feb2025 00:18:13.251] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_farm_1
+[24Feb2025 00:18:13.252] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/terminators/terminator_03
+[24Feb2025 00:18:13.254] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_fletcher_1
+[24Feb2025 00:18:13.254] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_06
+[24Feb2025 00:18:13.255] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/birch_forest_decor_2
+[24Feb2025 00:18:13.255] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/terminators/terminator_04
+[24Feb2025 00:18:14.648] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[24Feb2025 00:18:14.648] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[24Feb2025 00:18:14.680] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[24Feb2025 00:18:20.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to -1052.500000, 64.500000, 725.500000]
+[24Feb2025 00:18:25.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PavoLoco moved too quickly! -7.4869584938182925,2.566436120837359,-6.37375259964665
+[24Feb2025 00:18:26.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Set own game mode to Survival Mode]
+[24Feb2025 00:18:40.442] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / integrated_villages:pirate_village], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos BlockPos{x=-1803, y=79, z=421}
+[24Feb2025 00:18:41.209] [pool-7-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_3
+[24Feb2025 00:18:43.620] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/church
+[24Feb2025 00:18:44.730] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[24Feb2025 00:18:44.731] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[24Feb2025 00:18:44.733] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[24Feb2025 00:18:44.785] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ring1
+[24Feb2025 00:18:49.098] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[24Feb2025 00:18:49.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Creative Mode]
+[24Feb2025 00:18:51.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
+[24Feb2025 00:18:52.017] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[24Feb2025 00:18:52.017] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[24Feb2025 00:18:52.017] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[24Feb2025 00:18:52.521] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[24Feb2025 00:18:52.522] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[24Feb2025 00:18:52.698] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[24Feb2025 00:18:52.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[24Feb2025 00:18:55.672] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[24Feb2025 00:18:55.675] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[24Feb2025 00:19:00.618] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of idas:nexus/nexus_white
+[24Feb2025 00:19:01.988] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[24Feb2025 00:19:04.788] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[24Feb2025 00:19:04.814] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[24Feb2025 00:19:09.133] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1803, y=164, z=285} but found not block entity block Block{minecraft:air} at location
+[24Feb2025 00:19:09.133] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1803, y=164, z=285}
+[24Feb2025 00:19:09.550] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[24Feb2025 00:19:09.616] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[24Feb2025 00:19:09.616] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[24Feb2025 00:19:09.773] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1828, y=164, z=285} but found not block entity block Block{minecraft:air} at location
+[24Feb2025 00:19:09.773] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1828, y=164, z=285}
+[24Feb2025 00:19:12.309] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool1
+[24Feb2025 00:19:13.238] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[24Feb2025 00:19:13.684] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[24Feb2025 00:19:13.731] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[24Feb2025 00:19:14.121] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[24Feb2025 00:19:14.123] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[24Feb2025 00:19:14.126] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[24Feb2025 00:19:14.936] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[24Feb2025 00:19:14.936] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[24Feb2025 00:19:14.938] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[24Feb2025 00:19:18.462] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[24Feb2025 00:19:18.464] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[24Feb2025 00:19:18.465] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[24Feb2025 00:19:18.465] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id irons_spellbooks:priest
+[24Feb2025 00:19:18.465] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[24Feb2025 00:19:18.748] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[24Feb2025 00:19:19.200] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[24Feb2025 00:19:19.356] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[24Feb2025 00:19:26.983] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[24Feb2025 00:19:28.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: denercraft moved too quickly! -8.582159952525672,0.2966330993549633,5.23350134330326
+[24Feb2025 00:19:29.339] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[24Feb2025 00:19:29.342] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[24Feb2025 00:19:37.557] [Worker-Main-3/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [iceandfire] are present.
+[24Feb2025 00:19:37.678] [Worker-Main-3/DEBUG] [com.craisinlord.integrated_api.IntegratedAPI/]: Attempted to spawn Integrated API structure but not all required mods [ars_nouveau] are present.
+[24Feb2025 00:19:42.623] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[24Feb2025 00:19:45.823] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[24Feb2025 00:19:45.824] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[24Feb2025 00:19:45.825] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[24Feb2025 00:19:48.844] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1828, y=158, z=189} but found not block entity block Block{minecraft:air} at location
+[24Feb2025 00:19:48.845] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1828, y=158, z=189}
+[24Feb2025 00:19:49.058] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1806, y=158, z=189} but found not block entity block Block{minecraft:air} at location
+[24Feb2025 00:19:49.058] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1806, y=158, z=189}
+[24Feb2025 00:20:05.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to -1824.500000, 165.500000, 305.500000]
+[24Feb2025 00:20:08.035] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/trainerWins.json
+[24Feb2025 00:20:13.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Creative Mode]
+[24Feb2025 00:20:14.848] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[24Feb2025 00:20:14.849] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[24Feb2025 00:20:14.850] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[24Feb2025 00:20:37.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to -1957.500000, 289.500000, -17715.500000]
+[24Feb2025 00:20:44.383] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[24Feb2025 00:20:45.139] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[24Feb2025 00:20:45.139] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[24Feb2025 00:20:45.141] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[24Feb2025 00:20:59.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to denercraft]
+[24Feb2025 00:21:07.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to PavoLoco]
+[24Feb2025 00:21:09.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emissssss fell from a high place
+[24Feb2025 00:21:13.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Feb2025 00:21:13.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Feb2025 00:21:14.950] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[24Feb2025 00:21:14.950] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[24Feb2025 00:21:14.951] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[24Feb2025 00:21:18.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco was killed
+[24Feb2025 00:21:18.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Killed PavoLoco]
+[24Feb2025 00:21:20.931] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/34499, l='ServerLevel[world]', x=916.50, y=57.00, z=-3731.50]
+[24Feb2025 00:21:32.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to -2091.500000, 283.500000, -17673.500000]
+[24Feb2025 00:21:45.000] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[24Feb2025 00:21:45.000] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[24Feb2025 00:21:45.001] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[24Feb2025 00:21:48.139] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at com.cobblemon.mod.common.item.interactive.ReviveItem$use$2.invoke(ReviveItem.java:78) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23252!/:?]
+	at com.cobblemon.mod.common.item.interactive.ReviveItem$use$2.invoke(ReviveItem.java:67) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23252!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks$createBattleSelect$3.invoke(PartySelectCallbacks.java:74) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23252!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks$createBattleSelect$3.invoke(PartySelectCallbacks.java:69) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23252!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks.handleCallback(PartySelectCallbacks.java:110) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23252!/:?]
+	at com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:19) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23252!/:?]
+	at com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:17) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23252!/:?]
+	at com.cobblemon.mod.common.api.net.ServerNetworkPacketHandler$DefaultImpls.handleOnNettyThread$lambda$0(ServerNetworkPacketHandler.java:19) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23252!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23353!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23353!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23353!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23353!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23353!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23353!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23353!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23353!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23353!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23353!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23353!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23353!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[24Feb2025 00:21:54.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to 889.500000, 69.500000, -3556.500000]
+[24Feb2025 00:21:58.742] [Server thread/DEBUG] [Cobbledex/]: Saving 257 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[24Feb2025 00:22:11.679] [Server thread/DEBUG] [Cobbledex/]: Saving 258 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[24Feb2025 00:22:12.287] [Server thread/DEBUG] [Cobbledex/]: Saving 258 entries to /workspaces/Pruebas-extras/servidor_minecraft/./world/./cobbledex-coop.json
+[24Feb2025 00:22:15.049] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[24Feb2025 00:22:15.049] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[24Feb2025 00:22:15.050] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[24Feb2025 00:22:32.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to -2784.500000, 120.500000, -2020.500000]
+[24Feb2025 00:22:33.180] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/pillager_outpost_ocean/base_plate
+[24Feb2025 00:22:33.273] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:sunken_ship/sunken_ship
+[24Feb2025 00:22:45.099] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[24Feb2025 00:22:45.100] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[24Feb2025 00:22:45.101] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[24Feb2025 00:22:49.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Spectator Mode]
+[24Feb2025 00:22:50.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]

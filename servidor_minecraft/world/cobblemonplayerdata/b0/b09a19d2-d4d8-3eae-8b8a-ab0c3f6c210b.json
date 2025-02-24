@@ -620,6 +620,28 @@
             "status": "SEEN",
             "discoveredTimestamp": 1740283685398
           }
+        },
+        "greninja": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740355930239,
+            "caughtTimestamp": 1740355930239
+          }
+        },
+        "groudon": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740356123215
+          }
+        },
+        "tyrantrum": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740356531678
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -635,17 +657,17 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 58,
+    "totalCaptureCount": 59,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 21,
-    "totalBattleVictoryCount": 58,
+    "totalBattleVictoryCount": 64,
     "totalPvPBattleVictoryCount": 2,
-    "totalPvWBattleVictoryCount": 37,
-    "totalPvNBattleVictoryCount": 19,
+    "totalPvWBattleVictoryCount": 41,
+    "totalPvNBattleVictoryCount": 21,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 19,
     "totalTypeCaptureCounts": {
-      "water": 8,
+      "water": 9,
       "ice": 1,
       "normal": 7,
       "flying": 8,
@@ -661,7 +683,8 @@
       "ground": 5,
       "fire": 1,
       "dragon": 4,
-      "psychic": 2
+      "psychic": 2,
+      "dark": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:bunnelby": 1,
@@ -682,7 +705,9 @@
       "cobblemon:petilil": 1,
       "cobblemon:spinarak": 2,
       "cobblemon:shroomish": 1,
-      "cobblemon:groudon": 1
+      "cobblemon:groudon": 1,
+      "cobblemon:magikarp": 3,
+      "cobblemon:boldore": 1
     },
     "aspectsCollected": {}
   }

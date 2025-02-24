@@ -1199,6 +1199,34 @@
             "status": "SEEN",
             "discoveredTimestamp": 1740352436495
           }
+        },
+        "lanturn": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740355976273
+          }
+        },
+        "veluza": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740356023308
+          }
+        },
+        "groudon": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740356120716
+          }
+        },
+        "boldore": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740356201273
+          }
         }
       },
       "name": "cobbledex_discovery"
