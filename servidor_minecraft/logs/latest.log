@@ -4770,3 +4770,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Feb2025 23:31:59.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Creative Mode]
 [25Feb2025 23:32:49.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
 [25Feb2025 23:34:38.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Creative Mode]
+[25Feb2025 23:34:51.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
+[25Feb2025 23:37:39.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Creative Mode]
+[25Feb2025 23:40:43.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to PavoLoco]
