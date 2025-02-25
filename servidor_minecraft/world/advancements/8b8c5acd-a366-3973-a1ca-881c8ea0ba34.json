@@ -8153,6 +8153,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-02-25 22:44:50 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/netherite_trapdoor": {
     "criteria": {
       "has_netherite_scrap": "2025-02-25 22:19:50 +0000"
@@ -8195,6 +8201,18 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2025-02-25 22:44:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-25 22:44:50 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/safe": {
     "criteria": {
       "has_netherite_ingot": "2025-02-25 22:20:08 +0000"
@@ -8210,6 +8228,12 @@
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-25 22:20:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-02-25 22:44:46 +0000"
     },
     "done": true
   },
@@ -8249,6 +8273,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/iron_ball": {
+    "criteria": {
+      "has_iron": "2025-02-25 22:44:50 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/netherite_door": {
     "criteria": {
       "has_netherite_scrap": "2025-02-25 22:19:50 +0000"
@@ -8258,6 +8288,12 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-25 22:20:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-25 22:44:50 +0000"
     },
     "done": true
   },
