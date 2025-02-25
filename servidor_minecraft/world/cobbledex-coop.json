@@ -2284,6 +2284,41 @@
         "discoveredTimestamp": 1740436465735,
         "caughtTimestamp": 1740436465735
       }
+    },
+    "lickilicky": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740438210709
+      }
+    },
+    "mawile": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740439326536
+      }
+    },
+    "houndoom": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740439859778
+      }
+    },
+    "aegislash": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740439986035
+      }
+    },
+    "incineroar": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740440371332
+      }
     }
   }
 }

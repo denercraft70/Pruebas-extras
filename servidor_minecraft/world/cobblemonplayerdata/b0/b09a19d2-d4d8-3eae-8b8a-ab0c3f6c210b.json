@@ -715,6 +715,20 @@
             "discoveredTimestamp": 1740436465735,
             "caughtTimestamp": 1740436465735
           }
+        },
+        "torterra": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740439419669
+          }
+        },
+        "zapdos": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740439448520
+          }
         }
       },
       "name": "cobbledex_discovery"

@@ -792,6 +792,28 @@
             "discoveredTimestamp": 1740373690249,
             "caughtTimestamp": 1740373690249
           }
+        },
+        "mawile": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740439326535
+          }
+        },
+        "primarina": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740439381272
+          }
+        },
+        "riolu": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1740440006980,
+            "caughtTimestamp": 1740440006980
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -807,19 +829,19 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 41,
+    "totalCaptureCount": 42,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 17,
-    "totalBattleVictoryCount": 92,
+    "totalBattleVictoryCount": 94,
     "totalPvPBattleVictoryCount": 4,
-    "totalPvWBattleVictoryCount": 73,
-    "totalPvNBattleVictoryCount": 15,
+    "totalPvWBattleVictoryCount": 74,
+    "totalPvNBattleVictoryCount": 16,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 25,
     "totalTypeCaptureCounts": {
       "normal": 5,
       "ground": 8,
-      "fighting": 5,
+      "fighting": 6,
       "rock": 3,
       "flying": 3,
       "psychic": 2,

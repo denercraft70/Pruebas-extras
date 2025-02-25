@@ -1521,6 +1521,34 @@
             "status": "SEEN",
             "discoveredTimestamp": 1740434399659
           }
+        },
+        "lickilicky": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740438210707
+          }
+        },
+        "houndoom": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740439859777
+          }
+        },
+        "aegislash": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740439986034
+          }
+        },
+        "incineroar": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740440371331
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1538,10 +1566,10 @@
     "totalCaptureCount": 30,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 9,
-    "totalBattleVictoryCount": 46,
+    "totalBattleVictoryCount": 47,
     "totalPvPBattleVictoryCount": 4,
     "totalPvWBattleVictoryCount": 29,
-    "totalPvNBattleVictoryCount": 13,
+    "totalPvNBattleVictoryCount": 14,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 14,
     "totalTypeCaptureCounts": {
