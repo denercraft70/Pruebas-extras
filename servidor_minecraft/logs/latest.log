@@ -4762,3 +4762,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Feb2025 23:20:59.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emissssss has made the advancement [Hellish Paradise]
 [25Feb2025 23:21:36.953] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/105871, l='ServerLevel[world]', x=-732.00, y=31.00, z=-3143.00] as it would cause deadlock
 [25Feb2025 23:22:04.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to -6840.500000, 112.500000, -8389.500000]
+[25Feb2025 23:24:27.778] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-531, y=16, z=-2927} BlockPos{x=-529, y=14, z=-2928}
+[25Feb2025 23:24:27.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-531, y=16, z=-2927} BlockPos{x=-529, y=14, z=-2928}
+[25Feb2025 23:24:27.877] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-531, y=16, z=-2927} BlockPos{x=-529, y=14, z=-2928}
+[25Feb2025 23:24:27.931] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-531, y=16, z=-2927} BlockPos{x=-529, y=14, z=-2928}
+[25Feb2025 23:31:44.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Currently clearing the pokemon saved in the outbreaks. Any outbreaks in the world will spawn new pokemon or finish!
+[25Feb2025 23:31:59.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Creative Mode]
+[25Feb2025 23:32:49.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
+[25Feb2025 23:34:38.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Creative Mode]
