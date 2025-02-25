@@ -6466,6 +6466,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-02-25 23:18:13 +0000",
       "minecraft:nether_wastes": "2025-02-22 03:16:03 +0000",
       "minecraft:soul_sand_valley": "2025-02-22 03:16:14 +0000",
       "minecraft:warped_forest": "2025-02-24 21:59:27 +0000"
@@ -7890,7 +7891,8 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
-      "incendium:infernal_dunes": "2025-02-24 21:59:19 +0000"
+      "incendium:infernal_dunes": "2025-02-24 21:59:19 +0000",
+      "incendium:quartz_flats": "2025-02-25 23:20:59 +0000"
     },
     "done": false
   },
@@ -8276,6 +8278,12 @@
   "cobblemon:recipes/held/iron_ball": {
     "criteria": {
       "has_iron": "2025-02-25 22:44:50 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-02-25 23:20:59 +0000"
     },
     "done": true
   },
