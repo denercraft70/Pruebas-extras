@@ -1549,6 +1549,13 @@
             "status": "SEEN",
             "discoveredTimestamp": 1740440371331
           }
+        },
+        "heatmor": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1740532752484
+          }
         }
       },
       "name": "cobbledex_discovery"

@@ -2319,6 +2319,13 @@
         "status": "SEEN",
         "discoveredTimestamp": 1740440371332
       }
+    },
+    "heatmor": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740532752488
+      }
     }
   }
 }

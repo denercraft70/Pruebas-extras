@@ -8342,9 +8342,33 @@
     },
     "done": true
   },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-02-26 01:24:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/super_glue": {
     "criteria": {
       "has_item": "2025-02-26 01:09:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2025-02-26 01:25:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-02-26 01:25:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-02-26 01:14:48 +0000"
     },
     "done": true
   },
@@ -8363,6 +8387,12 @@
   "create:recipes/misc/crafting/kinetics/whisk": {
     "criteria": {
       "has_item": "2025-02-26 01:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-26 01:14:48 +0000"
     },
     "done": true
   },

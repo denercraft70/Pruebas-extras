@@ -9126,6 +9126,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2025-02-26 01:13:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/clutch": {
     "criteria": {
       "has_item": "2025-02-25 23:34:50 +0000"
@@ -9864,6 +9870,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-02-26 01:15:15 +0000"
+    },
+    "done": true
+  },
   "create:contraption_actors": {
     "criteria": {
       "0": "2025-02-25 23:36:50 +0000"
@@ -9897,6 +9909,12 @@
   "create:recipes/misc/crafting/kinetics/metal_bracket": {
     "criteria": {
       "has_item": "2025-02-25 23:24:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2025-02-26 01:13:30 +0000"
     },
     "done": true
   },
