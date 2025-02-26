@@ -18803,3 +18803,155 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25Feb2025 23:54:55.864] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
 [25Feb2025 23:54:55.864] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [25Feb2025 23:54:55.865] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Feb2025 23:55:25.915] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Feb2025 23:55:25.915] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Feb2025 23:55:25.915] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Feb2025 23:55:55.964] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Feb2025 23:55:55.965] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Feb2025 23:55:55.965] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Feb2025 23:56:26.015] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Feb2025 23:56:26.015] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Feb2025 23:56:26.015] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Feb2025 23:56:44.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Feb2025 23:56:44.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Feb2025 23:56:56.065] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Feb2025 23:56:56.065] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Feb2025 23:56:56.065] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Feb2025 23:57:26.114] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Feb2025 23:57:26.114] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Feb2025 23:57:26.115] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Feb2025 23:57:56.164] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Feb2025 23:57:56.164] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Feb2025 23:57:56.164] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Feb2025 23:58:26.214] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Feb2025 23:58:26.214] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Feb2025 23:58:26.214] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Feb2025 23:58:56.264] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Feb2025 23:58:56.264] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Feb2025 23:58:56.264] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Feb2025 23:59:26.313] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Feb2025 23:59:26.314] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Feb2025 23:59:26.314] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[25Feb2025 23:59:56.364] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[25Feb2025 23:59:56.364] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[25Feb2025 23:59:56.364] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Feb2025 00:00:26.414] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Feb2025 00:00:26.414] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Feb2025 00:00:26.414] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Feb2025 00:00:56.465] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Feb2025 00:00:56.465] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Feb2025 00:00:56.465] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Feb2025 00:01:26.514] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Feb2025 00:01:26.514] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Feb2025 00:01:26.514] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Feb2025 00:01:44.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Feb2025 00:01:44.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 00:01:56.564] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Feb2025 00:01:56.564] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Feb2025 00:01:56.565] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Feb2025 00:02:26.615] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Feb2025 00:02:26.615] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Feb2025 00:02:26.615] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Feb2025 00:02:56.664] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Feb2025 00:02:56.664] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Feb2025 00:02:56.665] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Feb2025 00:03:26.714] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Feb2025 00:03:26.714] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Feb2025 00:03:26.714] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Feb2025 00:03:33.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emissssss fell from a high place
+[26Feb2025 00:03:35.063] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26828, l='ServerLevel[world]', x=201.50, y=36.00, z=-192.50, removed=DISCARDED]
+[26Feb2025 00:03:35.063] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26829, l='ServerLevel[world]', x=206.60, y=55.00, z=-207.42, removed=DISCARDED]
+[26Feb2025 00:03:35.064] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26830, l='ServerLevel[world]', x=205.39, y=55.00, z=-205.56, removed=DISCARDED]
+[26Feb2025 00:03:35.065] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26798, l='ServerLevel[world]', x=173.50, y=58.00, z=-227.50, removed=DISCARDED]
+[26Feb2025 00:03:35.065] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26799, l='ServerLevel[world]', x=174.58, y=59.00, z=-226.63, removed=DISCARDED]
+[26Feb2025 00:03:35.065] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26801, l='ServerLevel[world]', x=169.37, y=80.00, z=-237.49, removed=DISCARDED]
+[26Feb2025 00:03:35.066] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26804, l='ServerLevel[world]', x=210.40, y=90.00, z=-228.62, removed=DISCARDED]
+[26Feb2025 00:03:35.066] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26836, l='ServerLevel[world]', x=160.49, y=119.00, z=-217.91, removed=DISCARDED]
+[26Feb2025 00:03:35.066] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26788, l='ServerLevel[world]', x=166.39, y=52.00, z=-204.44, removed=DISCARDED]
+[26Feb2025 00:03:35.066] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26789, l='ServerLevel[world]', x=167.35, y=69.00, z=-197.55, removed=DISCARDED]
+[26Feb2025 00:03:35.066] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26793, l='ServerLevel[world]', x=163.63, y=119.00, z=-195.48, removed=DISCARDED]
+[26Feb2025 00:03:35.068] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26795, l='ServerLevel[world]', x=177.36, y=59.00, z=-227.42, removed=DISCARDED]
+[26Feb2025 00:03:35.068] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26797, l='ServerLevel[world]', x=177.60, y=59.00, z=-226.62, removed=DISCARDED]
+[26Feb2025 00:03:35.070] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26815, l='ServerLevel[world]', x=206.60, y=73.00, z=-220.43, removed=DISCARDED]
+[26Feb2025 00:03:35.070] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26819, l='ServerLevel[world]', x=201.38, y=38.00, z=-241.54, removed=DISCARDED]
+[26Feb2025 00:03:35.071] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26885, l='ServerLevel[world]', x=249.50, y=56.00, z=-163.50, removed=DISCARDED]
+[26Feb2025 00:03:35.071] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26886, l='ServerLevel[world]', x=247.50, y=56.00, z=-168.50, removed=DISCARDED]
+[26Feb2025 00:03:35.071] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26890, l='ServerLevel[world]', x=243.59, y=66.00, z=-154.37, removed=DISCARDED]
+[26Feb2025 00:03:35.073] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26764, l='ServerLevel[world]', x=156.55, y=52.00, z=-200.38, removed=DISCARDED]
+[26Feb2025 00:03:35.073] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26767, l='ServerLevel[world]', x=150.12, y=119.00, z=-207.98, removed=DISCARDED]
+[26Feb2025 00:03:35.073] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26803, l='ServerLevel[world]', x=144.50, y=-45.90, z=-182.99, removed=DISCARDED]
+[26Feb2025 00:03:35.073] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26773, l='ServerLevel[world]', x=148.65, y=118.00, z=-228.56, removed=DISCARDED]
+[26Feb2025 00:03:35.073] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26902, l='ServerLevel[world]', x=152.83, y=-34.55, z=-219.19, removed=DISCARDED]
+[26Feb2025 00:03:35.074] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26834, l='ServerLevel[world]', x=150.49, y=123.00, z=-151.63, removed=DISCARDED]
+[26Feb2025 00:03:35.101] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26837, l='ServerLevel[world]', x=211.56, y=94.00, z=-266.48, removed=DISCARDED]
+[26Feb2025 00:03:35.101] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26841, l='ServerLevel[world]', x=218.30, y=123.39, z=-265.86, removed=DISCARDED]
+[26Feb2025 00:03:35.101] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26842, l='ServerLevel[world]', x=214.50, y=124.00, z=-262.60, removed=DISCARDED]
+[26Feb2025 00:03:35.101] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26843, l='ServerLevel[world]', x=218.50, y=127.00, z=-256.60, removed=DISCARDED]
+[26Feb2025 00:03:35.101] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26844, l='ServerLevel[world]', x=235.50, y=55.00, z=-261.50, removed=DISCARDED]
+[26Feb2025 00:03:35.101] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26845, l='ServerLevel[world]', x=235.50, y=55.00, z=-257.50, removed=DISCARDED]
+[26Feb2025 00:03:35.102] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26846, l='ServerLevel[world]', x=237.43, y=99.00, z=-261.36, removed=DISCARDED]
+[26Feb2025 00:03:35.102] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26784, l='ServerLevel[world]', x=187.62, y=54.00, z=-262.53, removed=DISCARDED]
+[26Feb2025 00:03:35.102] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26787, l='ServerLevel[world]', x=178.40, y=129.00, z=-270.40, removed=DISCARDED]
+[26Feb2025 00:03:35.102] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26874, l='ServerLevel[world]', x=200.24, y=128.00, z=-261.20, removed=DISCARDED]
+[26Feb2025 00:03:35.103] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26877, l='ServerLevel[world]', x=148.61, y=129.00, z=-134.56, removed=DISCARDED]
+[26Feb2025 00:03:35.103] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26897, l='ServerLevel[world]', x=225.62, y=62.00, z=-133.45, removed=DISCARDED]
+[26Feb2025 00:03:35.104] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26968, l='ServerLevel[world]', x=270.50, y=60.00, z=-236.50, removed=DISCARDED]
+[26Feb2025 00:03:35.104] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26969, l='ServerLevel[world]', x=267.50, y=60.00, z=-234.50, removed=DISCARDED]
+[26Feb2025 00:03:35.104] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26970, l='ServerLevel[world]', x=256.50, y=137.00, z=-247.63, removed=DISCARDED]
+[26Feb2025 00:03:35.105] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26950, l='ServerLevel[world]', x=136.58, y=59.00, z=-229.60, removed=DISCARDED]
+[26Feb2025 00:03:35.105] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26952, l='ServerLevel[world]', x=135.41, y=59.00, z=-228.41, removed=DISCARDED]
+[26Feb2025 00:03:35.105] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26973, l='ServerLevel[world]', x=132.47, y=119.00, z=-251.35, removed=DISCARDED]
+[26Feb2025 00:03:35.105] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26771, l='ServerLevel[world]', x=147.98, y=129.00, z=-266.50, removed=DISCARDED]
+[26Feb2025 00:03:35.105] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26775, l='ServerLevel[world]', x=140.50, y=91.10, z=-263.50, removed=DISCARDED]
+[26Feb2025 00:03:35.106] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26776, l='ServerLevel[world]', x=135.70, y=89.00, z=-257.65, removed=DISCARDED]
+[26Feb2025 00:03:35.107] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26980, l='ServerLevel[world]', x=266.66, y=59.00, z=-171.48, removed=DISCARDED]
+[26Feb2025 00:03:35.107] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26982, l='ServerLevel[world]', x=269.52, y=59.00, z=-174.66, removed=DISCARDED]
+[26Feb2025 00:03:35.108] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26984, l='ServerLevel[world]', x=259.54, y=159.87, z=-145.97, removed=DISCARDED]
+[26Feb2025 00:03:35.109] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26985, l='ServerLevel[world]', x=260.63, y=151.00, z=-148.49, removed=DISCARDED]
+[26Feb2025 00:03:35.109] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26989, l='ServerLevel[world]', x=260.53, y=153.00, z=-129.71, removed=DISCARDED]
+[26Feb2025 00:03:35.109] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26990, l='ServerLevel[world]', x=258.19, y=145.78, z=-132.64, removed=DISCARDED]
+[26Feb2025 00:03:35.109] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26991, l='ServerLevel[world]', x=268.39, y=146.00, z=-137.57, removed=DISCARDED]
+[26Feb2025 00:03:35.110] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26768, l='ServerLevel[world]', x=120.42, y=116.00, z=-224.40, removed=DISCARDED]
+[26Feb2025 00:03:35.110] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26778, l='ServerLevel[world]', x=124.50, y=119.00, z=-241.50, removed=DISCARDED]
+[26Feb2025 00:03:35.111] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26780, l='ServerLevel[world]', x=114.00, y=113.21, z=-205.30, removed=DISCARDED]
+[26Feb2025 00:03:35.111] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26781, l='ServerLevel[world]', x=125.45, y=115.00, z=-206.35, removed=DISCARDED]
+[26Feb2025 00:03:35.112] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26914, l='ServerLevel[world]', x=199.49, y=152.00, z=-123.97, removed=DISCARDED]
+[26Feb2025 00:03:35.112] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26917, l='ServerLevel[world]', x=176.68, y=145.00, z=-113.51, removed=DISCARDED]
+[26Feb2025 00:03:35.112] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26920, l='ServerLevel[world]', x=177.86, y=146.31, z=-120.91, removed=DISCARDED]
+[26Feb2025 00:03:35.112] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26925, l='ServerLevel[world]', x=147.24, y=126.00, z=-115.29, removed=DISCARDED]
+[26Feb2025 00:03:35.112] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26926, l='ServerLevel[world]', x=153.49, y=128.00, z=-116.66, removed=DISCARDED]
+[26Feb2025 00:03:35.112] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26929, l='ServerLevel[world]', x=165.88, y=134.00, z=-122.93, removed=DISCARDED]
+[26Feb2025 00:03:35.112] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26931, l='ServerLevel[world]', x=165.62, y=135.00, z=-126.62, removed=DISCARDED]
+[26Feb2025 00:03:35.114] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26935, l='ServerLevel[world]', x=164.50, y=91.00, z=-272.50, removed=DISCARDED]
+[26Feb2025 00:03:35.114] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26936, l='ServerLevel[world]', x=170.43, y=91.00, z=-276.61, removed=DISCARDED]
+[26Feb2025 00:03:35.114] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26939, l='ServerLevel[world]', x=175.01, y=-21.65, z=-285.50, removed=DISCARDED]
+[26Feb2025 00:03:35.114] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26940, l='ServerLevel[world]', x=178.54, y=78.00, z=-282.38, removed=DISCARDED]
+[26Feb2025 00:03:35.115] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26941, l='ServerLevel[world]', x=186.63, y=126.00, z=-273.59, removed=DISCARDED]
+[26Feb2025 00:03:35.115] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26944, l='ServerLevel[world]', x=182.12, y=-30.00, z=-285.12, removed=DISCARDED]
+[26Feb2025 00:03:35.115] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/27024, l='ServerLevel[world]', x=273.50, y=146.00, z=-181.50, removed=DISCARDED]
+[26Feb2025 00:03:35.115] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/27011, l='ServerLevel[world]', x=273.62, y=149.00, z=-170.54, removed=DISCARDED]
+[26Feb2025 00:03:35.115] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/27013, l='ServerLevel[world]', x=273.64, y=149.00, z=-163.57, removed=DISCARDED]
+[26Feb2025 00:03:35.116] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26974, l='ServerLevel[world]', x=206.83, y=122.00, z=-272.88, removed=DISCARDED]
+[26Feb2025 00:03:35.141] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/163153, l='ServerLevel[world]', x=214.50, y=124.00, z=-262.60, removed=DISCARDED]
+[26Feb2025 00:03:35.142] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/163200, l='ServerLevel[world]', x=260.53, y=153.00, z=-129.71, removed=DISCARDED]
+[26Feb2025 00:03:35.145] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26910, l='ServerLevel[world]', x=127.47, y=86.00, z=-136.25, removed=DISCARDED]
+[26Feb2025 00:03:35.146] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26901, l='ServerLevel[world]', x=113.56, y=89.00, z=-146.64, removed=DISCARDED]
+[26Feb2025 00:03:35.149] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/27038, l='ServerLevel[world]', x=203.49, y=149.00, z=-102.07, removed=DISCARDED]
+[26Feb2025 00:03:35.149] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/27042, l='ServerLevel[world]', x=189.19, y=153.00, z=-105.82, removed=DISCARDED]
+[26Feb2025 00:03:35.149] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/27046, l='ServerLevel[world]', x=184.37, y=151.00, z=-105.41, removed=DISCARDED]
+[26Feb2025 00:03:35.150] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26964, l='ServerLevel[world]', x=104.88, y=111.00, z=-198.52, removed=DISCARDED]
+[26Feb2025 00:03:35.150] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/26966, l='ServerLevel[world]', x=105.06, y=116.00, z=-193.51, removed=DISCARDED]
+[26Feb2025 00:03:35.226] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/163259, l='ServerLevel[world]', x=104.92, y=116.00, z=-193.51, removed=DISCARDED]
+[26Feb2025 00:03:35.652] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/27045, l='ServerLevel[world]', x=182.50, y=150.00, z=-98.50, removed=DISCARDED]
+[26Feb2025 00:03:38.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Teleported emissssss to PavoLoco]
+[26Feb2025 00:03:48.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Set own game mode to Creative Mode]
+[26Feb2025 00:03:56.765] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Feb2025 00:03:56.765] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Feb2025 00:03:56.765] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Feb2025 00:04:21.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [emissssss: Set own game mode to Survival Mode]
+[26Feb2025 00:04:26.815] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Feb2025 00:04:26.815] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Feb2025 00:04:26.815] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[26Feb2025 00:04:56.863] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[26Feb2025 00:04:56.863] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[26Feb2025 00:04:56.864] [pool-5-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
